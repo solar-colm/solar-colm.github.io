@@ -1,5 +1,94 @@
 ---
 layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: LaReL 2
+subtitle: Second Edition of the Language and Reinforcement Learning Workshop
 ---
+
+<div class='description' style='font-size: 11pt;'>
+
+<p>Language is one of the most impressive human accomplishments and is believed to be the core to our ability to learn, teach, reason and interact with others [1; 2; 3]. Learning many complex tasks or skills would be significantly more challenging without relying on language to communicate, and language is believed to have a structuring impact on human thought [4; 5; 51]. Written language has also given humans the ability to store information and insights about the world and pass it across generations and continents. Yet, the ability of current state-of-the art reinforcement learning agents to understand natural language is limited.</p>
+
+<p> Practically speaking, the ability to integrate and learn from language, in addition to rewards and demonstrations, has the potential to improve the generalization, scope and sample efficiency of agents [6]. For example, agents that are capable of transferring domain knowledge from textual corpora might be able to much more efficiently explore in a given environment or to perform zero or few shot learning in novel environments [7]. Furthermore, many real-world tasks, including personal assistants and general household robots, require agents to process language by design, whether to enable interaction with humans, or simply use existing interfaces [8; 9].
+</p>
+
+<p>To support this field of research, we are interested in fostering the discussion around:</p>
+<ul>
+	<li> methods that can effectively link language to actions and observations in the environment [10; 11; 12; 13; 14; 15; 16; 17; 18];</li>
+	<li> research into language roles beyond encoding goal states, such as structuring hierarchical policies [19; 20; 21; 22], communicating domain knowledge [23; 24] or reward shaping [25; 26, 27]; </li>
+	<li> methods that can help identify and incorporate outside textual information about the task, or general-purpose semantics learned from outside corpora [28; 29; 30];</li>
+	<li> novel environments and benchmarks enabling such research and approaching complexity of real-world problem settings [31; 32; 33; 34; 35; 36].</li>
+</ul>
+<p>
+The aim of the workshop on Language in Reinforcement Learning is to steer discussion and research of these problems by bringing together researchers from several communities, including reinforcement learning, robotics, natural language processing, computer vision and cognitive psychology. 
+Since the last edition of LaReL at ICML 2020 [45; 46], we have seen a wealth of papers leveraging language to support or enhance cognitive functions in artificial agents: systematic generalization [37; 17], relational and causal learning [38], abstraction and planning [39; 40; 41] or goal imagination [42]. These results revive the old debate on the cognitive functions of language [43; 44] and let us foresee new ways for language to support artificial agents’ cognitive abilities beyond goal and reward specification. We have also seen more work on transfer of commonsense knowledge from pretrained large language models (LLMs) [47; 48] beyond linguistic tasks to sequential decision making settings. Recent work has shown how LLMs can be used as planners [39; 49; 50], enabling learning in sparse data settings and to assist out of distribution generalization to novel tasks.</p>
+
+<p>In the wake of tremendous progress on multimodal models, NLP, and RL, in this workshop we will try to take a step back and focus discussion on upcoming challenges in integrating language and sequential decision-making. We will prepare some hot questions as well as collect community-contributed questions through our website and social media; we will then focus the panel discussion on some of these questions as well as host an open breakout rooms session where all attendants can contribute to the discussion around those open problems.<p>
+
+Some example questions:
+<ul>
+<li>How can knowledge stored in a pretrained language model be transferred to an RL policy ?</li>
+<li>How can we update a language model from feedback in an environment ?</li>
+<li>How can we build open-ended environments for language-using agents ?</li>
+<li>Can general language agents be trained from imitation learning alone or is feedback from an environment required ?</li>
+<li>How can we specify reward or collect data for language agents at scale ?</li>
+</ul>
+
+
+
+</div>
+
+<h4> References</h4>
+<div class='references' style='font-size:9pt'>
+<p> [1] The development of categorization in the second year and its relation to other cognitive and linguistic developments, Gopnik and Meltzoff, 1987; <br>
+[2] Core knowledge, Spelke and Kinzler, 2007; <br>
+[3] Cognitive effects of language on human navigation, Schusterman et al., 2011; <br>
+[4] Words as invitations to form categories: Evidence from 12-to 13-month-old infants, Waxman, 1995; <br>
+[5] Linguistically modulated perception and cognition: The label-feedback hypothesis, Lupyan, 2012; <br>
+[6] A survey of Reinforcement Learning informed by natural Language. Luketina et al 2019; <br>
+[7] Grounding Language to Entities and Dynamics for Generalization in Reinforcement Learning, Hanjie et al., 2021; <br>
+[8] Vision and language navigation: Interpreting visually-grounded navigation instructions in real environments, Anderson et al., 2017; <br>
+[9] Robots that use language, Tellex et al., 2020; <br>
+[10] Reinforcement Learning for mapping instructions to actions, Branavan et al., 2009;  <br>
+[11] Understanding natural language commands for robotic navigation and mobile manipulation, Tellex et al, 2011; <br>
+[12] Learning to interpret natural language navigation instructions from observation, Chen et al., 2011; <br>
+[13] Natural language communication with robots, Bisk et al., 2016; <br>
+[14] Listen, Attend, and Walk: neural mapping of navigational instructions to action sequences, Mei et al., 2016; <br>
+[15] Grounded language learning in a simulated 3d world, Hermann et al., 2017 <br>
+[16] Imitating interactive intelligence, Anderson et al., 2020 <br>
+[17] Language conditioned imitation learning over unstructured data, Lynch and Sermanet, 2020 <br>
+[18] Creating Multimodal Interactive Agents with Imitation and Self-Supervised Learning, DeepMind Interactive Agents Team, 2021 <br>
+[19] Modular Multitask Reinforcement Learning with Policy Sketches, Andreas et al 2016 <br>
+[20] Language as an Abstraction for Hierarchical Deep Reinforcement Learning, Jiang et al., 2019; <br>
+[21] ELLA: Exploration through Learned Language Abstraction, Mirchandani et al., 2021; <br>
+[22] Improving Intrinsic Exploration with Language Abstractions, Mu et al., 2021; <br>
+[23] Grounding Language for Transfer in Deep Reinforcement Learning, Narasimhan et al., 2017 <br>
+[24] RTFM: Generalising to Novel Environment Dynamics via Reading, Zhong et al., 2020 <br>
+[25] Learning to Understand Goal Specifications by Modelling Reward, Bahdanau et al., 2018; <br>
+[26] Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation, Wang et al., 2018 <br>
+[27] Using Natural Language for Reward Shaping in Reinforcement Learning, Goyal et al. 2019; <br>
+[28] Learning to Win by Reading Manuals in a Monte-Carlo Framework, Branavan et al. 2012; <br>
+[29] What can you do with a rock? Affordance extraction via word embeddings, Fulda et al. 2017; <br>
+[30] Keep CALM and explore: language models for action generation in text-based games, Yao et al. 2021; <br>
+[31] Embodied Question Answering, Das et al., 2018;  <br>
+[32] TextWorld: A Learning Environment for Text-based Games, Côté et al., 2018; <br>
+[33] Interactive fiction games, a colossal adventure, Hausknecht et al. 2019; <br>
+[34] BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning, Chevalier-Boisvert et al. 2019; <br>
+[35] ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks, Sridhar et al., 2019; <br>
+[36] Habitat 2.0: Training Home Assistants to Rearrange their Habitat, Szot et al., 2021; <br>
+[37] Grounded language learning fast and slow, Hill et al., 2020; <br>
+[38] Tell me why ! - Explanations support learning of relational and causal structure, Lampinen et al., 2021; <br>
+[39] Skill induction and planning with latent language, Sharma et al. 2021, <br>
+[40] Leveraging Language to Learn Program Abstractions and Search Heuristics, Wong et al., 2021; <br>
+[41] Alfworld: aligning text and embodied environments for interactive learning, Sridhar et al., 2021; <br>
+[42] Language as a cognitive tool to imagine goals in curiosity-driven exploration, Colas et al., 2021; <br>
+[43] Thought and Language, Vygotsky, 1934; <br>
+[44] Language and Thought, Carruthers at al. 1998; <br>
+[45] https://larel-ws.github.io/  <br>
+[46] https://icml.cc/virtual/2020/workshop/5748 <br>
+[47] Language models are few-shot learners, Brown et al., 2020; <br>
+[48] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, Raffel et al., 2019; <br>
+[49] Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents, Huang et al., 2022; <br>
+[50] Pre-Trained Language Models for Interactive Decision-Making, Li et al., 2022; <br>
+[51] Evidence from an emerging sign language reveals that language supports spatial cognition, Pyers et al., 2010;</p>
+
+</div>

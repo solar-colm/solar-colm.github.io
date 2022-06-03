@@ -1,0 +1,27 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+organiser-name {
+  text-align: center;
+}
+
+.organiser-img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+.row{
+  margin-bottom: 10px;
+}
+
+.program-table{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
