@@ -64,4 +64,14 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.microsoft.com/en-us/research/people/macote/">Marc-Alexandre Côté</a> <br> Microsoft Research</div>
     </div>
   </div>
+    <div class="row">
+    <div class="col-sm">
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/ed.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.egrefen.com/">Edward Grefenstette</a> <br> UCL / CohereAI </div>
+    </div>
+    <div class="col-sm">
+    <</div>
+    </div>
  </div>
