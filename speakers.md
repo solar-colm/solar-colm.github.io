@@ -14,7 +14,7 @@ subtitle:
     <td>(confirmed)</td>
   </tr>
   <tr>
-    <td>Cheb Yan</td>
+    <td>Chen Yan</td>
     <td>"Building Multimodal Interactive Agents with Imitation and Self-Supervised Learning."</td>
     <td>(confirmed)</td>
   </tr>
