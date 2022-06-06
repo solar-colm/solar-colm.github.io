@@ -69,9 +69,9 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/ed.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.egrefen.com/">Edward Grefenstette</a> <br> UCL / CohereAI </div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.egrefen.com/">Edward Grefenstette</a> <br> UCL / Cohere </div>
     </div>
     <div class="col-sm">
-    <</div>
+    </div>
     </div>
  </div>
