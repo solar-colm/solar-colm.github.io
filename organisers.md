@@ -22,11 +22,11 @@ subtitle:
     <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/tristan.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.tristankarch.com/">Tristan Karch</a> <br> Inria</div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://tristankarch.com/">Tristan Karch</a> <br> Inria</div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/cedric.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.ccolas.github.io/">Cédric Colas</a> <br> MIT</div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.ccolas.github.io/">Cédric Colas</a> <br> Inria</div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/apjacob.jpg'>
