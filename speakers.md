@@ -26,7 +26,7 @@ subtitle:
   <tr>
     <td>James McClelland</td>
     <td>TBD</td>
-    <td>(confirmed)</td>
+    <td>(invited)</td>
   </tr>
     <tr>
     <td>Stephanie Tellex</td>
@@ -36,7 +36,7 @@ subtitle:
   <tr>
     <td>Igor Mordatch</td>
     <td>TBD</td>
-    <td>(invited)</td>
+    <td>(confirmed)</td>
   </tr>
   <tr>
     <td>Andy Clark</td>
