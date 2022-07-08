@@ -26,7 +26,7 @@ subtitle:
   <tr>
     <td>James McClelland</td>
     <td>TBD</td>
-    <td>(invited)</td>
+    <td>(confirmed)</td>
   </tr>
     <tr>
     <td>Stephanie Tellex</td>
