@@ -7,7 +7,7 @@ subtitle:
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/laetitia.jpg'>
+      <img class="organiser-img" src='/assets/img/laetitia.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://scholar.google.com/citations?user=pW-r5kcAAAAJ">Laetitia Teodorescu</a> <br> Inria</div>
     </div>
     <div class="col-sm">
