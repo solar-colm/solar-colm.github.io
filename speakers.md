@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Program
+title: Speakers
 subtitle: 
 ---
-
-
 
 
 <table>
