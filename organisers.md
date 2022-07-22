@@ -48,7 +48,7 @@ subtitle:
   </div>
 </div>
 
-<h1 style="text-align:center; margin-bottom:"> Advisory Board </h1>
+<h1 style="text-align:center; margin-bottom:20pt; !important"> Advisory Board </h1>
 <div class="container">
   <div class="row">
     <div class="col-sm">
