@@ -3,9 +3,83 @@ layout: page
 title: Speakers
 subtitle: 
 ---
+ 
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/noah.jpg'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="https://cocolab.stanford.edu/ndg" target="_blank"> Noah Goodman </a></h4>
+    <p class='speaker-affiliation'> Stanford</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b>  How Language Generalizes Experience and Enables cumulative culture
+    </p>
+  </div>
+</div>
 
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="organiser-img" src='/assets/img/avatar.jpg'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="">Chen Yan</a> </h4>
+    <p class='speaker-affiliation'> Deepmind</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Building Multimodal Interactive Agents with Imitation and Self-Supervised Learning.
+    </p>
+  </div>
+</div>
 
-<table>
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="organiser-img" src='/assets/img/dorsasadigh.jpg'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="https://dorsa.fyi/" target="_blank">Dorsah Sadigh</a> </h4>
+    <p class='speaker-affiliation'> Stanford</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Language-Informed Latent Actions.
+    </p>
+  </div>
+</div>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="organiser-img" src='/assets/img/jmcclelland.jpg'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="">James Mc Clelland</a> </h4>
+    <p class='speaker-affiliation'> Stanford</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Not anounced yet.
+    </p>
+  </div>
+</div> 
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="organiser-img" src='/assets/img/igormordatch.jpg'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="">Igor Mordatch</a> </h4>
+    <p class='speaker-affiliation'> OpenAI</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Not anounced yet.
+    </p>
+  </div>
+</div> 
+
+<!-- <table>
   <tr>
     <td>Noah Goodman </td>
     <td>"How language generalizes experience and enables cumulative culture."</td>
@@ -42,7 +116,7 @@ subtitle:
     <td>(invited)</td>
   </tr>
 
-</table>
+</table> -->
 
 
 
