@@ -1091,6 +1091,14 @@ pre {
 #nav-search-text {
   display: none;
 }
+#nav-twitter-icon{
+  display: inline-block;
+  font-size: 12pt;
+}
+#nav-twitter-text{
+  display: none;
+}
+
 
 @media (max-width: 1199px) {
   #nav-search-icon {
