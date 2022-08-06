@@ -22,7 +22,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="organiser-img" src='/assets/img/avatar.jpg'>
+    <img class="speaker-img" src='/assets/img/avatar.jpg'>
   </div>
   </div>
   <div class="col-9">
@@ -37,7 +37,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="organiser-img" src='/assets/img/dorsasadigh.jpg'>
+    <img class="speaker-img" src='/assets/img/dorsasadigh.jpg'>
   </div>
   </div>
   <div class="col-9">
@@ -52,7 +52,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="organiser-img" src='/assets/img/jmcclelland.jpg'>
+    <img class="speaker-img" src='/assets/img/jmcclelland.jpg'>
   </div>
   </div>
   <div class="col-9">
@@ -67,7 +67,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="organiser-img" src='/assets/img/igormordatch.jpg'>
+    <img class="speaker-img" src='/assets/img/igormordatch.jpg'>
   </div>
   </div>
   <div class="col-9">
