@@ -79,6 +79,21 @@ subtitle:
   </div>
 </div> 
 
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="speaker-img" src='/assets/img/stellex.png'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="">Stefanie Tellex</a> </h4>
+    <p class='speaker-affiliation'>Brown University</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Not anounced yet.
+    </p>
+  </div>
+</div> 
+
 <!-- <table>
   <tr>
     <td>Noah Goodman </td>
