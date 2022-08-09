@@ -22,7 +22,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="speaker-img" src='/assets/img/avatar.jpg'>
+    <img class="speaker-img" src='/assets/img/cyan.png'>
   </div>
   </div>
   <div class="col-9">
