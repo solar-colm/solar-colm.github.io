@@ -52,7 +52,7 @@ We welcome submissions on any work at the intersection of language and reinforce
 <div class='description' style='font-size: 11pt;'>
 <p>Submission should be made on <a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/LaReL" target="_blank">OpenReview</a>.</p>
 
-<p> Submissions should be anonymmised papers up to 4 pages (appendices can be added to the main PDF). You must format your submission using the <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles" target="_blank"> NeurIPS 2022 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p> 
+<p> Submissions should be anonymised papers up to 4 pages (appendices can be added to the main PDF). You must format your submission using the <a href="https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles" target="_blank"> NeurIPS 2022 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p> 
 
 <p>The papers should report original research, provide synthesis of previous works or develop novel environments. Short opinion and review papers are welcomed. We accept dual submission. Authors can upload concise versions of parallel submissions to other conferences such as NeurIPS main conference or ICLR. We discourage submitting to multiple NeurIPS workshops</p>
 
