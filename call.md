@@ -26,7 +26,7 @@ We welcome submissions on any work at the intersection of language and reinforce
 <table style='margin-bottom:10pt;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> 22 September, 2022 </td>
+		<td> 26 September, 2022 </td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
