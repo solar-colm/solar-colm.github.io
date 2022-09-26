@@ -41,7 +41,7 @@ subtitle:
   </div>
   </div>
   <div class="col-9">
-    <h4> <a href="https://dorsa.fyi/" target="_blank">Dorsah Sadigh</a> </h4>
+    <h4> <a href="https://dorsa.fyi/" target="_blank">Dorsa Sadigh</a> </h4>
     <p class='speaker-affiliation'> Stanford</p>
       <p style='font-size: 11pt;'>
         <b>Talk title: </b> Language-Informed Latent Actions.
@@ -56,7 +56,7 @@ subtitle:
   </div>
   </div>
   <div class="col-9">
-    <h4> <a href="">James Mc Clelland</a> </h4>
+    <h4> <a href="">James McClelland</a> </h4>
     <p class='speaker-affiliation'> Stanford</p>
       <p style='font-size: 11pt;'>
         <b>Talk title: </b> Not anounced yet.
