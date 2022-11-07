@@ -59,7 +59,7 @@ subtitle:
     <h4> <a href="">James McClelland</a> </h4>
     <p class='speaker-affiliation'> Stanford</p>
       <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Not anounced yet.
+        <b>Talk title: </b> Capturing Intelligence at the Level of Thought.
     </p>
   </div>
 </div> 
