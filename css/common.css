@@ -1,3 +1,12 @@
+.center{
+  align-items: center;
+  display: flex;
+}
+
+.logo-sponsor{
+ margin-left: 10pt;
+ margin-right: 10pt;
+}
 p {
   margin-top: 0px;
   margin-bottom: 10px;
