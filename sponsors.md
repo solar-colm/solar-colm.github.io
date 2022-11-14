@@ -18,6 +18,9 @@ Cohere’s platform, which is powered by models that have read billions of pages
 <br>
 <br>
 With these capabilities, developers and businesses alike can drastically improve applications, uncover new insights, discover cost-saving automation, and effectively understand their customers, at scale.
+<br>
+<br>
+Visit Cohere's website: <a href="https://cohere.ai/" target="_blank"> cohere.ai</a>.
 </div>
 
 <div class="center">
