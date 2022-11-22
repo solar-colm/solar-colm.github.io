@@ -4,7 +4,7 @@ title: Program
 subtitle: 
 ---
 
-<div class='program-table' style='font-size: 11pt;'>
+<div class='program-table' style='font-size: 10pt; width:100%;'>
 
 <table>
   <tr>
@@ -29,7 +29,11 @@ subtitle:
   </tr>
   <tr>
     <td>10:45 am</td>
-    <td>Contributed Talks 1 & 2 (30 min - 15 min x2)</td>
+    <td>Contributed Talk 1: ScriptWorld: A Scripts-based RL Environment (15 min)</td>
+  </tr>
+    <tr>
+    <td>11:00 am</td>
+    <td>Contributed Talk 2: How to Talk so AI Will Learn: Instructions, Descriptions, and Pragmatics (15 min)</td>
   </tr>
   <tr>
     <td>11:15 am</td>
@@ -45,7 +49,7 @@ subtitle:
   </tr>
   <tr>
     <td>1:45 pm</td>
-    <td>Contributed Talk 3 (15 min)</td>
+    <td>Contributed talk 3: Collaborating with language models for embodied reasoning (15 min)</td>
   </tr>
   <tr>
     <td>2:00 pm</td>
