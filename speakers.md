@@ -92,6 +92,36 @@ subtitle:
         <b>Talk title: </b> Not anounced yet.
     </p>
   </div>
+</div>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="speaker-img" src='/assets/img/adam_lerer.jpeg'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="">Adam Lerer</a> </h4>
+    <p class='speaker-affiliation'> Meta FAIR</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> Cicero: Combining Language Models and Strategic Reasoning in the Game of Diplomacy
+    </p>
+  </div>
+</div> 
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+    <img class="speaker-img" src='/assets/img/jim_fan.jpeg'>
+  </div>
+  </div>
+  <div class="col-9">
+    <h4> <a href="">Jim Fan</a> </h4>
+    <p class='speaker-affiliation'> NVIDIA</p>
+      <p style='font-size: 11pt;'>
+        <b>Talk title: </b> VIMA: General Robot Manipulation with Multimodal Prompts
+    </p>
+  </div>
 </div> 
 
 <!-- <table>
