@@ -35,7 +35,7 @@ subtitle:
   </tr>
     <tr>
     <td>11:00 am</td>
-    <td><b>Contributed Talk 2:</b> How to Talk so AI Will Learn: Instructions, Descriptions, and Pragmatics - Ted Summers (15 min)</td>
+    <td><b>Contributed Talk 2:</b> How to Talk so AI Will Learn: Instructions, Descriptions, and Pragmatics - Ted Sumers (15 min)</td>
   </tr>
   <tr>
     <td>11:15 am</td>
