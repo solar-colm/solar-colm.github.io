@@ -1,3 +1,85 @@
+/* Style the button that is used to open and close the collapsible content */
+.gold{
+  color: orange;
+}
+
+.silver{
+  color: silver;
+}
+
+.collapsible {
+  margin-top: 3pt;
+  background-color: rgba(0,0,0,.08);
+  border-radius: 5pt;
+  color: black;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 70%;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: rgba(0,0,0,.08);
+  border-color: gray;
+}
+
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  color: white !important;
+  border-color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+  color: white;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  background-color: rgba(0,0,0,.01);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.nav-link{
+  font-size: 80%;
+  margin: -4pt !important;
+}
+
+.right {
+  position: absolute;
+  right: 20px;
+}
+
+.card-header{
+  font-size: 11pt;
+}
+
+.card-body{
+  font-size: 11pt;
+  margin-top: -10pt;
+}
+
+.btn-primary{
+  font-size: 70%;
+  background-color: #212529;
+  border-color: gray;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #0085A1;
+  border-color: #0085A1;
+}
+
 .center{
   align-items: center;
   display: flex;
