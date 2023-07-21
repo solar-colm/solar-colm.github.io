@@ -11,19 +11,19 @@ subtitle:
 <table style='margin-bottom:10pt;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> 26 September, 2022 </td>
+		<td> 29 September, 2022 </td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> 14 October, 2022 </td>
+		<td> 17 October, 2022 </td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
-		<td> 16 November, 2022</td>
+        <td> TBD </td>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
-		<td> 2 December, 2022</td>
+        <td> TBD </td>
 	</tr>
 </table>
 
