@@ -80,48 +80,104 @@ policy, in order to foster an interdisciplinary dialogue on the societal impacts
 
 <div class='references' style='font-size:9pt'>
 <p> 
-[1] M. Abdalla and M. Abdalla. The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat
+[1] The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat
 on Academic Integrity. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and
-Society. ACM, July 2021. doi: 10.1145/3461702.3462563. URL https://doi.org/10.1145%
-2F3461702.3462563.
-[2] A. Abid, M. Farooqi, and J. Zou. Persistent Anti-Muslim Bias in Large Language Models. In
+Society. ACM, July 2021. 
+<br>
+[2] Persistent Anti-Muslim Bias in Large Language Models. In
 Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. ACM, July 2021.
-doi: 10.1145/3461702.3462624. URL https://doi.org/10.1145%2F3461702.3462624.
-[3] J. Adebayo, M. Muelly, H. Abelson, and B. Kim. Post hoc Explanations may be Ineffec-
+<br>
+[3] Post hoc Explanations may be Ineffec-
 tive for Detecting Unknown Spurious Correlation. In International Conference on Learning
-Representations, 2022. URL https://openreview.net/forum?id=xNOVfCCvDpM.
-[4] D. Adelani, J. Alabi, A. Fan, J. Kreutzer, X. Shen, M. Reid, D. Ruiter, D. Klakow, P. Nabende,
-E. Chang, T. Gwadabe, F. Sackey, B. F. P. Dossou, C. Emezue, C. Leong, M. Beukman,
-S. Muhammad, G. Jarso, O. Yousuf, A. Niyongabo Rubungo, G. Hacheme, E. P. Waira-
-gala, M. U. Nasir, B. Ajibade, T. Ajayi, Y. Gitau, J. Abbott, M. Ahmed, M. Ochieng,
-A. Aremu, P. Ogayo, J. Mukiibi, F. Ouoba Kabore, G. Kalipe, D. Mbaye, A. A. Tapo,
-V. Memdjokam Koagne, E. Munkoh-Buabeng, V. Wagner, I. Abdulmumin, A. Awokoya,
-H. Buzaaba, B. Sibanda, A. Bukula, and S. Manthalu. A Few Thousand Translations Go
-a Long Way! Leveraging Pre-trained Models for African News Translation. In Proceedings
+Representations, 2022. 
+<br>
+[4] A Few Thousand Translations Goa Long Way! Leveraging Pre-trained Models for African News Translation. In Proceedings
 of the 2022 Conference of the North American Chapter of the Association for Computational
-Linguistics: Human Language Technologies, pages 3053–3070, Seattle, United States, July
-2022. Association for Computational Linguistics. doi: 10.18653/v1/2022.naacl-main.223. URL
-https://aclanthology.org/2022.naacl-main.223.
-[5] D. Adelani, G. Neubig, S. Ruder, S. Rijhwani, M. Beukman, C. Palen-Michel, C. Lignos,
-J. Alabi, S. Muhammad, P. Nabende, C. M. B. Dione, A. Bukula, R. Mabuya, B. F. P. Dossou,
-B. Sibanda, H. Buzaaba, J. Mukiibi, G. Kalipe, D. Mbaye, A. Taylor, F. Kabore, C. C. Emezue,
-A. Aremu, P. Ogayo, C. Gitau, E. Munkoh-Buabeng, V. Memdjokam Koagne, A. A. Tapo,
-T. Macucwa, V. Marivate, M. T. Elvis, T. Gwadabe, T. Adewumi, O. Ahia, J. Nakatumba-
-Nabende, N. L. Mokono, I. Ezeani, C. Chukwuneke, M. Oluwaseun Adeyemi, G. Q. Hacheme,
-I. Abdulmumin, O. Ogundepo, O. Yousuf, T. Moteu, and D. Klakow. MasakhaNER 2.0:
+Linguistics: Human Language Technologies, July 2022.
+<br>
+[5] MasakhaNER 2.0:
 Africa-centric Transfer Learning for Named Entity Recognition. In Proceedings of the 2022
-Conference on Empirical Methods in Natural Language Processing, pages 4488–4508, Abu
-Dhabi, United Arab Emirates, Dec. 2022. Association for Computational Linguistics. URL
-https://aclanthology.org/2022.emnlp-main.298.
-[6] Y. Bai, A. Jones, K. Ndousse, A. Askell, A. Chen, N. DasSarma, D. Drain, S. Fort, D. Gan-
-guli, T. Henighan, N. Joseph, S. Kadavath, J. Kernion, T. Conerly, S. El-Showk, N. Elhage,
-Z. Hatfield-Dodds, D. Hernandez, T. Hume, S. Johnston, S. Kravec, L. Lovitt, N. Nanda,
-C. Olsson, D. Amodei, T. Brown, J. Clark, S. McCandlish, C. Olah, B. Mann, and J. Ka-
-plan. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human
+Conference on Empirical Methods in Natural Language Processing, Dec. 2022.
+<br>
+[6] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human
 Feedback, Apr. 2022. URL http://arxiv.org/abs/2204.05862. arXiv:2204.05862 [cs].
-[7] M. A. Bakker, M. J. Chadwick, H. Sheahan, M. H. Tessler, L. Campbell-Gillingham, J. Bal-
-aguer, N. McAleese, A. Glaese, J. Aslanides, M. Botvinick, and C. Summerfield. Fine-tuning
-language models to find agreement among humans with diverse preferences. In A. H. Oh,
+<br>
+[7] Fine-tuning language models to find agreement among humans with diverse preferences. In NeurIPS 2022.
+<br>
+[8] Can Language Models Be Too Big? In Proceedings of the 2021 ACM Conference on
+Fairness, Accountability, and Transparency, FAccT 2021.
+<br>
+[9] Stereotyping Norwegian
+Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets. In roceedings of the 59th
+Annual Meeting of the Association for Computational Linguistic, August 2021.
+<br>
+[10] What Does it Mean for a
+Language Model to Preserve Privacy? In 2022 ACM Conference on Fairness, Accountability,
+and Transparency. ACM, June 2022.
+<br>
+[11] Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings. In 2019 NAACL, June 2019.
+<br>
+[12] Towards A Rigorous Science of Interpretable Machine Learning,
+Mar. 2017. URL http://arxiv.org/abs/1702.08608
+<br>
+[13] Predictability and Surprise in Large Generative Models. In 2022 ACM Conference on
+Fairness, Accountability, and Transparency, FAccT ’22, June 2022.
+<br>
+[14] Datasheets for datasets. Communications of the ACM, 64(12):86–92, Dec. 2021. 
+<br>
+[15] K. Greshake, S. Abdelnabi, S. Mishra, C. Endres, T. Holz, and M. Fritz. Not what you’ve
+signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt
+Injection, May 2023. URL http://arxiv.org/abs/2302.12173. arXiv:2302.12173 [cs].
+3
+<br>
+[16] E. Jones, A. Dragan, A. Raghunathan, and J. Steinhardt. Automatically Auditing Large
+Language Models via Discrete Optimization, Mar. 2023. URL http://arxiv.org/abs/2303.
+04381. arXiv:2303.04381 [cs].
+<br>
+[17] N. Kandpal, E. Wallace, and C. Raffel. Deduplicating Training Data Mitigates Privacy Risks
+in Language Models. In Proceedings of the 39th International Conference on Machine Learn-
+ing, pages 10697–10707. PMLR, June 2022. URL https://proceedings.mlr.press/v162/
+kandpal22a.html. ISSN: 2640-3498.
+<br>
+[18] ChatGPT for good? On opportunities and challenges of large language mod-
+els for education. Learning and Individual Differences, 103:102274, Apr. 2023. <https://www.sciencedirect.com/science/
+article/pii/S1041608023000195>.
+<br>
+[19] Alignment of
+Language Agents, Mar. 2021. URL <http://arxiv.org/abs/2103.14659>. arXiv:2103.14659.
+<br>
+[20] S. Lin, J. Hilton, and O. Evans. TruthfulQA: Measuring How Models Mimic Human False-
+hoods. In ACL 2022.
+<br>
+[21] Challenges of language technolo-gies for the indigenous languages of the Americas. In ACL 2018.
+<br>
+[22] Model Cards for Model Reporting. In FAacT 2019. <br>
+<br>
+[23] In-context Learning and Induction Heads. Transformer Circuits Thread, 2022.
+<br>
+[24] Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards
+and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023. <http://arxiv.
+org/abs/2304.03279>. arXiv:2304.03279 [cs].
+<br>
+[25]iscovering Language Model Behaviors with Model-Written Evaluations, Dec. 2022. <http://arxiv.org/abs/2212.09251>. arXiv:2212.09251.
+<br>
+[26] The Coloniality of Data Work in Latin America. In AIES 2021.
+<br>
+[27] Stop explaining black box machine learning models for high stakes decisions
+and use interpretable models instead. Nature Machine Intelligence, 1(5):206–215, May 2019.
+<br>
+[28] Structured access: an emerging paradigm for safe AI deployment, Apr. 2022.
+<http://arxiv.org/abs/2201.05159>. arXiv:2201.05159.
+<br>
+[29] The Offense-Defense Balance of Scientific Knowledge: Does Pub-
+lishing AI Research Reduce Misuse? In AIES ’20Feb. 2020. 
+<br>
+[30] Beyond Fair Pay: Ethical Implications of NLP Crowdsourcing. In NAACL 2021.
+<br>
+[31] Defining and Characterizing Reward Hacking. In NeurIPS, 2022.
+<br>
+[32] The Gradient of Generative AI Release: Methods and Considerations, Feb. 2023.
+<http://arxiv.org/abs/2302.04844>. arXiv:2302.04844.
 
 
 </div>
