@@ -100,7 +100,7 @@ Africa-centric Transfer Learning for Named Entity Recognition. In Proceedings of
 Conference on Empirical Methods in Natural Language Processing, Dec. 2022.
 <br>
 [6] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human
-Feedback, Apr. 2022. URL http://arxiv.org/abs/2204.05862. arXiv:2204.05862 [cs].
+Feedback, Apr. 2022. URL [](http://arxiv.org/abs/2204.05862). arXiv:2204.05862 [cs].
 <br>
 [7] Fine-tuning language models to find agreement among humans with diverse preferences. In NeurIPS 2022.
 <br>
@@ -111,63 +111,57 @@ Fairness, Accountability, and Transparency, FAccT 2021.
 Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets. In roceedings of the 59th
 Annual Meeting of the Association for Computational Linguistic, August 2021.
 <br>
-[10] What Does it Mean for a
-Language Model to Preserve Privacy? In 2022 ACM Conference on Fairness, Accountability,
+[10] What Does it Mean for a Language Model to Preserve Privacy? In 2022 ACM Conference on Fairness, Accountability,
 and Transparency. ACM, June 2022.
 <br>
 [11] Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings. In 2019 NAACL, June 2019.
 <br>
 [12] Towards A Rigorous Science of Interpretable Machine Learning,
-Mar. 2017. URL http://arxiv.org/abs/1702.08608
+Mar. 2017. URL [](http://arxiv.org/abs/1702.08608).
 <br>
 [13] Predictability and Surprise in Large Generative Models. In 2022 ACM Conference on
 Fairness, Accountability, and Transparency, FAccT ’22, June 2022.
 <br>
 [14] Datasheets for datasets. Communications of the ACM, 64(12):86–92, Dec. 2021. 
 <br>
-[15] K. Greshake, S. Abdelnabi, S. Mishra, C. Endres, T. Holz, and M. Fritz. Not what you’ve
+[15] Not what you’ve
 signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt
-Injection, May 2023. URL http://arxiv.org/abs/2302.12173. arXiv:2302.12173 [cs].
-3
+Injection, May 2023. URL [](http://arxiv.org/abs/2302.12173). arXiv:2302.12173.
 <br>
-[16] E. Jones, A. Dragan, A. Raghunathan, and J. Steinhardt. Automatically Auditing Large
-Language Models via Discrete Optimization, Mar. 2023. URL http://arxiv.org/abs/2303.
-04381. arXiv:2303.04381 [cs].
+[16] Automatically Auditing Large Language Models via Discrete Optimization, Mar. 2023. URL [](http://arxiv.org/abs/2303.04381). arXiv:2303.04381.
 <br>
-[17] N. Kandpal, E. Wallace, and C. Raffel. Deduplicating Training Data Mitigates Privacy Risks
-in Language Models. In Proceedings of the 39th International Conference on Machine Learn-
-ing, pages 10697–10707. PMLR, June 2022. URL https://proceedings.mlr.press/v162/
-kandpal22a.html. ISSN: 2640-3498.
+[17] Deduplicating Training Data Mitigates Privacy Risks
+in Language Models. In ICML 2022.
 <br>
 [18] ChatGPT for good? On opportunities and challenges of large language mod-
-els for education. Learning and Individual Differences, 103:102274, Apr. 2023. <https://www.sciencedirect.com/science/
-article/pii/S1041608023000195>.
+els for education. Learning and Individual Differences, 103:102274, Apr. 2023. URL [](https://www.sciencedirect.com/science/
+article/pii/S1041608023000195).
 <br>
 [19] Alignment of
-Language Agents, Mar. 2021. URL <http://arxiv.org/abs/2103.14659>. arXiv:2103.14659.
+Language Agents, Mar. 2021. URL [](http://arxiv.org/abs/2103.14659). arXiv:2103.14659.
 <br>
 [20] S. Lin, J. Hilton, and O. Evans. TruthfulQA: Measuring How Models Mimic Human False-
 hoods. In ACL 2022.
 <br>
 [21] Challenges of language technolo-gies for the indigenous languages of the Americas. In ACL 2018.
 <br>
-[22] Model Cards for Model Reporting. In FAacT 2019. <br>
+[22] Model Cards for Model Reporting. In FAacT 2019.
 <br>
 [23] In-context Learning and Induction Heads. Transformer Circuits Thread, 2022.
 <br>
 [24] Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards
-and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023. <http://arxiv.
-org/abs/2304.03279>. arXiv:2304.03279 [cs].
+and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023. URL [](http://arxiv.
+org/abs/2304.03279). arXiv:2304.03279 [cs].
 <br>
-[25]iscovering Language Model Behaviors with Model-Written Evaluations, Dec. 2022. <http://arxiv.org/abs/2212.09251>. arXiv:2212.09251.
+[25]iscovering Language Model Behaviors with Model-Written Evaluations, Dec. 2022. URL [](http://arxiv.org/abs/2212.09251). arXiv:2212.09251.
 <br>
 [26] The Coloniality of Data Work in Latin America. In AIES 2021.
 <br>
 [27] Stop explaining black box machine learning models for high stakes decisions
 and use interpretable models instead. Nature Machine Intelligence, 1(5):206–215, May 2019.
 <br>
-[28] Structured access: an emerging paradigm for safe AI deployment, Apr. 2022.
-<http://arxiv.org/abs/2201.05159>. arXiv:2201.05159.
+[28] Structured access: an emerging paradigm for safe AI deployment, Apr. 2022. URL
+[](http://arxiv.org/abs/2201.05159). arXiv:2201.05159.
 <br>
 [29] The Offense-Defense Balance of Scientific Knowledge: Does Pub-
 lishing AI Research Reduce Misuse? In AIES ’20Feb. 2020. 
@@ -176,8 +170,8 @@ lishing AI Research Reduce Misuse? In AIES ’20Feb. 2020.
 <br>
 [31] Defining and Characterizing Reward Hacking. In NeurIPS, 2022.
 <br>
-[32] The Gradient of Generative AI Release: Methods and Considerations, Feb. 2023.
-<http://arxiv.org/abs/2302.04844>. arXiv:2302.04844.
+[32] The Gradient of Generative AI Release: Methods and Considerations, Feb. 2023. URL
+[](http://arxiv.org/abs/2302.04844). arXiv:2302.04844.
 
 
 </div>
