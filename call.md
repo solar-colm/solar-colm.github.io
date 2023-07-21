@@ -81,26 +81,20 @@ policy, in order to foster an interdisciplinary dialogue on the societal impacts
 <div class='references' style='font-size:9pt'>
 <p> 
 [1] The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat
-on Academic Integrity. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and
-Society. ACM, July 2021. 
+on Academic Integrity. In AIES 2021. 
 <br>
-[2] Persistent Anti-Muslim Bias in Large Language Models. In
-Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. ACM, July 2021.
+[2] Persistent Anti-Muslim Bias in Large Language Models. In AIES 2021.
 <br>
 [3] Post hoc Explanations may be Ineffec-
-tive for Detecting Unknown Spurious Correlation. In International Conference on Learning
-Representations, 2022. 
+tive for Detecting Unknown Spurious Correlation. In ICLR 2022. 
 <br>
-[4] A Few Thousand Translations Goa Long Way! Leveraging Pre-trained Models for African News Translation. In Proceedings
-of the 2022 Conference of the North American Chapter of the Association for Computational
-Linguistics: Human Language Technologies, July 2022.
+[4] A Few Thousand Translations Goa Long Way! Leveraging Pre-trained Models for African News Translation. In NAACL 2022.
 <br>
 [5] MasakhaNER 2.0:
-Africa-centric Transfer Learning for Named Entity Recognition. In Proceedings of the 2022
-Conference on Empirical Methods in Natural Language Processing, Dec. 2022.
+Africa-centric Transfer Learning for Named Entity Recognition. In EMNLP 2022.
 <br>
 [6] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human
-Feedback, Apr. 2022. URL [](http://arxiv.org/abs/2204.05862). arXiv:2204.05862 [cs].
+Feedback, Apr. 2022. URL http://arxiv.org/abs/2204.05862. arXiv:2204.05862.
 <br>
 [7] Fine-tuning language models to find agreement among humans with diverse preferences. In NeurIPS 2022.
 <br>
@@ -117,7 +111,7 @@ and Transparency. ACM, June 2022.
 [11] Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings. In 2019 NAACL, June 2019.
 <br>
 [12] Towards A Rigorous Science of Interpretable Machine Learning,
-Mar. 2017. URL [](http://arxiv.org/abs/1702.08608).
+Mar. 2017. URL http://arxiv.org/abs/1702.08608.
 <br>
 [13] Predictability and Surprise in Large Generative Models. In 2022 ACM Conference on
 Fairness, Accountability, and Transparency, FAccT ’22, June 2022.
@@ -126,19 +120,19 @@ Fairness, Accountability, and Transparency, FAccT ’22, June 2022.
 <br>
 [15] Not what you’ve
 signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt
-Injection, May 2023. URL [](http://arxiv.org/abs/2302.12173). arXiv:2302.12173.
+Injection, May 2023. URL http://arxiv.org/abs/2302.12173. arXiv:2302.12173.
 <br>
-[16] Automatically Auditing Large Language Models via Discrete Optimization, Mar. 2023. URL [](http://arxiv.org/abs/2303.04381). arXiv:2303.04381.
+[16] Automatically Auditing Large Language Models via Discrete Optimization, Mar. 2023. URL http://arxiv.org/abs/2303.04381. arXiv:2303.04381.
 <br>
 [17] Deduplicating Training Data Mitigates Privacy Risks
 in Language Models. In ICML 2022.
 <br>
 [18] ChatGPT for good? On opportunities and challenges of large language mod-
-els for education. Learning and Individual Differences, 103:102274, Apr. 2023. URL [](https://www.sciencedirect.com/science/
-article/pii/S1041608023000195).
+els for education. Learning and Individual Differences, 103:102274, Apr. 2023. URL https://www.sciencedirect.com/science/
+article/pii/S1041608023000195.
 <br>
 [19] Alignment of
-Language Agents, Mar. 2021. URL [](http://arxiv.org/abs/2103.14659). arXiv:2103.14659.
+Language Agents, Mar. 2021. URL http://arxiv.org/abs/2103.14659. arXiv:2103.14659.
 <br>
 [20] S. Lin, J. Hilton, and O. Evans. TruthfulQA: Measuring How Models Mimic Human False-
 hoods. In ACL 2022.
@@ -150,10 +144,10 @@ hoods. In ACL 2022.
 [23] In-context Learning and Induction Heads. Transformer Circuits Thread, 2022.
 <br>
 [24] Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards
-and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023. URL [](http://arxiv.
-org/abs/2304.03279). arXiv:2304.03279 [cs].
+and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023. URL http://arxiv.
+org/abs/2304.03279. arXiv:2304.03279.
 <br>
-[25]iscovering Language Model Behaviors with Model-Written Evaluations, Dec. 2022. URL [](http://arxiv.org/abs/2212.09251). arXiv:2212.09251.
+[25]iscovering Language Model Behaviors with Model-Written Evaluations, Dec. 2022. URL http://arxiv.org/abs/2212.09251. arXiv:2212.09251.
 <br>
 [26] The Coloniality of Data Work in Latin America. In AIES 2021.
 <br>
@@ -161,7 +155,7 @@ org/abs/2304.03279). arXiv:2304.03279 [cs].
 and use interpretable models instead. Nature Machine Intelligence, 1(5):206–215, May 2019.
 <br>
 [28] Structured access: an emerging paradigm for safe AI deployment, Apr. 2022. URL
-[](http://arxiv.org/abs/2201.05159). arXiv:2201.05159.
+http://arxiv.org/abs/2201.05159. arXiv:2201.05159.
 <br>
 [29] The Offense-Defense Balance of Scientific Knowledge: Does Pub-
 lishing AI Research Reduce Misuse? In AIES ’20Feb. 2020. 
@@ -171,7 +165,7 @@ lishing AI Research Reduce Misuse? In AIES ’20Feb. 2020.
 [31] Defining and Characterizing Reward Hacking. In NeurIPS, 2022.
 <br>
 [32] The Gradient of Generative AI Release: Methods and Considerations, Feb. 2023. URL
-[](http://arxiv.org/abs/2302.04844). arXiv:2302.04844.
+http://arxiv.org/abs/2302.04844. arXiv:2302.04844.
 
 
 </div>
