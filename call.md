@@ -4,24 +4,9 @@ title: Call for Papers
 subtitle: 
 ---
 
-<h3 style='margin-bottom: 10pt;'>Topics</h3>
-
-<div class='description' style='font-size: 11pt;'>
-
-We welcome submissions on any work at the intersection of language and reinforcement learning. Examples of topics include:
-
-<ul>
-<li> language-instructed agents, </li>
-<li>agents evolving in purely linguistic, text-based environments, </li>
-<li>agents leveraging multi-modal inputs including linguistic ones, </li>
-<li>agents leveraging external corpora, </li>
-<li>works on novel environments and benchmarks involving multi-modal perceptions including language </li>
-</ul>
-</div>
-
 <h3 style='margin-bottom: 10pt;'>Key Dates</h3>
 
-<div class='description' style='font-size: 11pt;'>
+<div class='description' style='font-size: 11pt;align: center'>
 
 <table style='margin-bottom:10pt;'>
 	<tr>
@@ -46,6 +31,35 @@ We welcome submissions on any work at the intersection of language and reinforce
 </p>
 
 </div>
+<h3 style='margin-bottom: 10pt;'>Topics</h3>
+
+<div class='description' style='font-size: 11pt;'>
+
+As language models (LMs) revolutionize various fields, it becomes critical to ensure their respon-
+sible development and deployment. This includes considering factors like alignment, security, and
+fairness, while striving for bias-free, misuse-resistant, and interpretable models. Our workshop aims
+to encourage a wider discussion on these societal impacts of LMs, promoting more socially conscious
+and accountable LM research. We anticipate a broad array of submissions given the multi-faceted
+impact of LMs. Our focus areas will include but are not limited to:
+
+<ul>
+<li>Security and privacy concerns of LMs [10, 17, 15]
+<li>Bias and exclusion in LMs [9, 2]
+<li>Analysis of the development and deployment of LMs, including crowdwork [26, 30], deploy-
+<li>ment protocols [32, 28], and societal impacts from deployment [8, 13].
+<li>Safety, robustness, and alignment of LMs [31, 6, 20, 19]
+<li>Auditing, red-teaming, and evaluations of LMs [25, 24, 16]
+<li>Transparency, explainability, interpretability of LMs [23, 12, 3, 27, 14, 22]
+<li>Applications of LMs for social good, including sector-specific applications [7, 18, 11] and LMs
+<li>for low-resource languages [4, 5, 21]
+<li>Perspectives from other domains that can inform socially responsible LM development and
+deployment [29, 1]
+</ul>
+We also encourage sociotechnical submissions from other disciplines such as philosophy, law, and
+policy, in order to foster an interdisciplinary dialogue on the societal impacts of LMs.
+
+</div>
+
 
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
