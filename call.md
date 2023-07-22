@@ -8,7 +8,7 @@ subtitle:
 
 <div class='description' style='font-size: 11pt;align: center'>
 
-<table style='margin-bottom:10pt;align: center'>
+<table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
 		<td> 29 September, 2022 </td>
