@@ -6,6 +6,9 @@ subtitle:
 
 <div class='program-table' style='font-size: 10pt; width:100%;'>
 
+Program when finalized will appear here. Please check back soon.
+
+<!--
 <table>
   <tr>
     <td>8:30 am</td>
@@ -83,6 +86,7 @@ subtitle:
   </tr>
 
 </table>
+-->
 
 </div>
 
