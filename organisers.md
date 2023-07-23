@@ -97,20 +97,20 @@ subtitle:
   <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/david.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> Department of Engineering, University of Cambridge, UK</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/sam.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://cims.nyu.edu/~sbowman/"> Sam Bowman</a> <br> <p class='speaker-affiliation'> Anthropic</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/jakob.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.jakobfoerster.com/">Jakob Foerster</a> <br> <p class='speaker-affiliation'> Department of Engineering, University of Oxford, UK</p></div>
+      <img class="organiser-img" src='/assets/img/jakob.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.jakobfoerster.com/">Jakob Foerster</a> <br> <p class='speaker-affiliation'> University of Oxford</p></div>
     </div>
   </div>
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/sulin.jpg'>
+      <img class="organiser-img" src='/assets/img/sulin.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://sblodgett.github.io/">Su Lin Blodgett</a> <br> <p class='speaker-affiliation'> Microsoft Research Montreal</p></div>
     </div>
     <div class="col-sm">
