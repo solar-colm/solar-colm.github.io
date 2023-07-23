@@ -16,7 +16,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/katherine.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://katelee168.github.io">Katherine Lee</a> <br> <p class='speaker-affiliation'> Google Brain, Cornell Computer Science</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://katelee168.github.io">Katherine Lee</a> <br> <p class='speaker-affiliation'> Google Brain, Cornell</p></div>
     </div>
   </div>
     <div class="row">
@@ -29,7 +29,7 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://robertkirk.github.io/">Robert Kirk</a> <br> <p class='speaker-affiliation'>University College London</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/yawen.jpeg'>
+      <img class="organiser-img" src='/assets/img/yawen.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://yawen-d.github.io/">Yawen Duan</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
   </div>
@@ -101,7 +101,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/sam.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://cims.nyu.edu/~sbowman/"> Sam Bowman</a> <br> <p class='speaker-affiliation'> Anthropic</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://cims.nyu.edu/~sbowman/"> Sam Bowman</a> <br> <p class='speaker-affiliation'> Anthropic; NYU</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/jakob.png'>
