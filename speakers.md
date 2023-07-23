@@ -7,14 +7,14 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/noah.jpg'>
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
     </div>
   </div>
   <div class="col-9">
-    <h4> <a href="https://cocolab.stanford.edu/ndg" target="_blank"> Noah Goodman </a></h4>
-    <p class='speaker-affiliation'> Stanford</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b>  How Language Generalizes Experience and Enables cumulative culture
+    <h4>Yejin Choi</h4>
+    <p class='speaker-affiliation'>Professor of Computer Science, University of Washington</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed</b>
     </p>
   </div>
 </div>
@@ -22,14 +22,14 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="speaker-img" src='/assets/img/cyan.png'>
-  </div>
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
   </div>
   <div class="col-9">
-    <h4> <a href="">Chen Yan</a> </h4>
-    <p class='speaker-affiliation'> Deepmind</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Building Multimodal Interactive Agents with Imitation and Self-Supervised Learning.
+    <h4>Anton Korinek</h4>
+    <p class='speaker-affiliation'>Professor of Economics, University of Virginia</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed</b>
     </p>
   </div>
 </div>
@@ -37,14 +37,14 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="speaker-img" src='/assets/img/dorsasadigh.jpg'>
-  </div>
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
   </div>
   <div class="col-9">
-    <h4> <a href="https://dorsa.fyi/" target="_blank">Dorsa Sadigh</a> </h4>
-    <p class='speaker-affiliation'> Stanford</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Language-Informed Latent Actions.
+    <h4>Diyi Yang</h4>
+    <p class='speaker-affiliation'>Assistant Professor of Computer Science, Stanford University</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed</b>
     </p>
   </div>
 </div>
@@ -52,44 +52,14 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="speaker-img" src='/assets/img/jmcclelland.jpg'>
-  </div>
-  </div>
-  <div class="col-9">
-    <h4> <a href="">James McClelland</a> </h4>
-    <p class='speaker-affiliation'> Stanford</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Capturing Intelligence at the Level of Thought.
-    </p>
-  </div>
-</div> 
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-    <img class="speaker-img" src='/assets/img/igormordatch.jpg'>
-  </div>
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
   </div>
   <div class="col-9">
-    <h4> <a href="">Igor Mordatch</a> </h4>
-    <p class='speaker-affiliation'> OpenAI</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Not anounced yet.
-    </p>
-  </div>
-</div> 
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-    <img class="speaker-img" src='/assets/img/stellex.png'>
-  </div>
-  </div>
-  <div class="col-9">
-    <h4> <a href="">Stefanie Tellex</a> </h4>
-    <p class='speaker-affiliation'>Brown University</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Not anounced yet.
+    <h4>Ethan Perez</h4>
+    <p class='speaker-affiliation'>Research Scientist at Anthropic</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed</b>
     </p>
   </div>
 </div>
@@ -97,32 +67,79 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="speaker-img" src='/assets/img/adam_lerer.jpeg'>
-  </div>
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
   </div>
   <div class="col-9">
-    <h4> <a href="">Adam Lerer</a> </h4>
-    <p class='speaker-affiliation'> Meta FAIR</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> Cicero: Combining Language Models and Strategic Reasoning in the Game of Diplomacy
+    <h4>Inioluwa Deborah Raji</h4>
+    <p class='speaker-affiliation'>Fellow Mozilla Foundation & PhD Candidate in Computer Science at UC Berkeley</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed</b>
     </p>
   </div>
-</div> 
+</div>
 
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-    <img class="speaker-img" src='/assets/img/jim_fan.jpeg'>
-  </div>
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
   </div>
   <div class="col-9">
-    <h4> <a href="">Jim Fan</a> </h4>
-    <p class='speaker-affiliation'> NVIDIA</p>
-      <p style='font-size: 11pt;'>
-        <b>Talk title: </b> VIMA: General Robot Manipulation with Multimodal Prompts
+    <h4>Rumman Chowdhury</h4>
+    <p class='speaker-affiliation'>Chief Scientist at Parity Consulting, Ex-Director of META Team at Twitter</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed</b>
     </p>
   </div>
-</div> 
+</div>
+
+<h2>Panelists</h2>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4>David Bau</h4>
+    <p class='speaker-affiliation'>Assistant Professor of Computer Science, Northeastern University</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed as Panelist</b>
+    </p>
+  </div>
+</div>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4>Stella Biderman</h4>
+    <p class='speaker-affiliation'>Lead Scientist at Booz Allen Hamilton and the Executive Director of EleutherAI</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed as Panelist</b>
+    </p>
+  </div>
+</div>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/logo-larel.png'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4>Vinodkumar Prabhakaran</h4>
+    <p class='speaker-affiliation'>Senior Research Scientist at Google Deepmind</p>
+    <p style='font-size: 11pt;'>
+      <b>Confirmed as Panelist</b>
+    </p>
+  </div>
+</div>
 
 <!-- <table>
   <tr>
