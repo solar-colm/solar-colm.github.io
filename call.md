@@ -20,6 +20,8 @@ subtitle:
 
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
+		<td> Submissions Open</td> 
+		<td> 02 Aguust, 2023</td>
 		<td> <b>Submission Deadline</b></td> 
 		<td> <b>29 September, 2022 </b></td>
 	</tr>
