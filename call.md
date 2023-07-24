@@ -22,6 +22,8 @@ subtitle:
 	<tr>
 		<td> Submissions Open</td> 
 		<td> 02 Aguust, 2023</td>
+	</tr>
+	<tr>
 		<td> <b>Submission Deadline</b></td> 
 		<td> <b>29 September, 2022 </b></td>
 	</tr>
