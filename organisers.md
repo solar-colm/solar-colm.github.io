@@ -14,29 +14,32 @@ subtitle:
       <img class="organiser-img" src='/assets/img/alan.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.achan.ca/">Alan Chan</a> <br> <p class='speaker-affiliation'> Mila, University of Montréal</p></div>
     </div>
-    <div class="col-sm">
+    <!-- <div class="col-sm">
       <img class="organiser-img" src='/assets/img/katherine.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://katelee168.github.io">Katherine Lee</a> <br> <p class='speaker-affiliation'> Google Brain, Cornell</p></div>
-    </div>
-  </div>
-    <div class="row">
+    </div> -->
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/laura.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.lauraruis.com/">Laura Ruis</a> <br> <p class='speaker-affiliation'> University College London</p></div>
     </div>
+  </div>
+    <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/robert.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://robertkirk.github.io/">Robert Kirk</a> <br> <p class='speaker-affiliation'>University College London</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/yawen.png'>
+      <img class="organiser-img" src='/assets/img/yawen.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://yawen-d.github.io/">Yawen Duan</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
   </div>
-	<div class="row">
     <div class="col-sm">
     	<img class="organiser-img" src='/assets/img/cynthia.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.xccyn.com">Xin Cynthia Chen</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
+    </div>
+	<div class="row">
+    <div class="col-sm">
+      <img src=''>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/kawin.jpeg'>
