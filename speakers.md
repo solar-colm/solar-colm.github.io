@@ -94,8 +94,6 @@ subtitle:
   </div>
 </div>
 
-<h2>Panelists</h2>
-
 <div class='row'>
   <div class="col-3">
     <div class="frame">
