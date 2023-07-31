@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speakers
+title: Speakers & Panelists
 subtitle: 
 ---
  
