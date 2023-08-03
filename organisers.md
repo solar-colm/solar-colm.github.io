@@ -29,7 +29,7 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://robertkirk.github.io/">Robert Kirk</a> <br> <p class='speaker-affiliation'>University College London</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/yawen.jpg'>
+      <img class="organiser-img" src='/assets/img/yawen.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://yawen-d.github.io/">Yawen Duan</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
