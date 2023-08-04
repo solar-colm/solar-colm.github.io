@@ -21,15 +21,15 @@ subtitle:
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
 		<td> Submissions Open</td> 
-		<td> 02 Aguust, 2023</td>
+		<td> 02 August, 2023</td>
 	</tr>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> <b>29 September, 2022 </b></td>
+		<td> <b>29 September, 2023 </b></td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> 17 October, 2022 </td>
+		<td> 17 October, 2023 </td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
