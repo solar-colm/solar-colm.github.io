@@ -11,7 +11,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Yejin Choi</h4>
+    <h4><a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a></h4>
     <p class='speaker-affiliation'>Professor of Computer Science, University of Washington</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
@@ -26,7 +26,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Anton Korinek</h4>
+    <h4><a href="https://www.korinek.com/">Anton Korinek</a></h4>
     <p class='speaker-affiliation'>Professor of Economics, University of Virginia</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
@@ -41,7 +41,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Diyi Yang</h4>
+    <h4><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a></h4>
     <p class='speaker-affiliation'>Assistant Professor of Computer Science, Stanford University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
@@ -56,7 +56,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Ethan Perez</h4>
+    <h4><a href="https://ethanperez.net/">Ethan Perez</a></h4>
     <p class='speaker-affiliation'>Research Scientist at Anthropic</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
@@ -71,7 +71,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Inioluwa Deborah Raji</h4>
+    <h4><a href="https://en.wikipedia.org/wiki/Deborah_Raji">Inioluwa Deborah Raji</a></h4>
     <p class='speaker-affiliation'>Fellow Mozilla Foundation & PhD Candidate in Computer Science at UC Berkeley</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
@@ -86,7 +86,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Rumman Chowdhury</h4>
+    <h4><a href="http://www.rummanchowdhury.com/">Rumman Chowdhury</a></h4>
     <p class='speaker-affiliation'>Chief Scientist at Parity Consulting, Ex-Director of META Team at Twitter</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
@@ -101,7 +101,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>David Bau</h4>
+    <h4><a href="https://baulab.info/">David Bau</a></h4>
     <p class='speaker-affiliation'>Assistant Professor of Computer Science, Northeastern University</p>
     <p style='font-size: 11pt;'>
       <b>Panelist</b>
@@ -116,7 +116,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Stella Biderman</h4>
+    <h4><a href="https://www.stellabiderman.com/">Stella Biderman</a></h4>
     <p class='speaker-affiliation'>Lead Scientist at Booz Allen Hamilton and the Executive Director of EleutherAI</p>
     <p style='font-size: 11pt;'>
       <b>Panelist</b>
@@ -131,7 +131,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4>Vinodkumar Prabhakaran</h4>
+    <h4><a href="https://www.cs.stanford.edu/~vinod/">Vinodkumar Prabhakaran</a></h4>
     <p class='speaker-affiliation'>Senior Research Scientist at Google Deepmind</p>
     <p style='font-size: 11pt;'>
       <b>Panelist</b>
