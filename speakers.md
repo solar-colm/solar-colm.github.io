@@ -131,7 +131,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://www.cs.stanford.edu/~vinod/">Vinodkumar Prabhakaran</a></h4>
+    <h4><a href="https://cs.stanford.edu/~vinod/">Vinodkumar Prabhakaran</a></h4>
     <p class='speaker-affiliation'>Senior Research Scientist at Google Deepmind</p>
     <p style='font-size: 11pt;'>
       <b>Panelist</b>
