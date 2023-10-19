@@ -19,7 +19,7 @@ navbar-links:
   Program: "program"
   Submission Guide: "call"
     #  Papers: "papers"
-    #  Sponsors: "sponsors"
+  # Sponsors: "sponsors"
 
 # --- Logo --- #
 
