@@ -52,12 +52,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/ethan.jpeg'>
+      <img class="speaker-img" src='/assets/img/owain.jpg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://ethanperez.net/">Ethan Perez</a></h4>
-    <p class='speaker-affiliation'>Research Scientist at Anthropic</p>
+    <h4><a href="https://owainevans.github.io/">Owain Evans</a></h4>
+    <p class='speaker-affiliation'>Research Associate, Oxford University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
