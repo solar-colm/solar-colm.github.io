@@ -124,9 +124,6 @@ subtitle:
       <img class="organiser-img" src='/assets/img/richard.webp'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://futureoflife.org/person/richard-mallah/">Richard Mallah</a> <br> <p class='speaker-affiliation'> Future of Life Institute</p></div>
     </div>
-    <div class="col-sm">
-      <!-- empty column -->
-    </div>
   </div>
 </div>
 
