@@ -4,7 +4,9 @@ title: Program
 subtitle: 
 ---
 
-<div class='program-table' style='font-size: 10pt; width:100%;'>
+<!-- <div class='program-table' style='font-size: 10pt; width:100%;'> -->
+<div class='program-table' style='font-size: 10pt; width:80%; margin-left: auto; margin-right: auto;'>
+
 
 <!-- Program when finalized will appear here. Please check back soon. -->
 
