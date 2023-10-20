@@ -5,12 +5,12 @@ subtitle:
 ---
 
 <!-- <div class='program-table' style='font-size: 10pt; width:100%;'> -->
-<div class='program-table' style='font-size: 10pt; width:80%; margin-left: auto; margin-right: auto;'>
+<!-- <div class='program-table' style='font-size: 10pt; width:80%; margin-left: auto; margin-right: auto;'> -->
 
 
 <!-- Program when finalized will appear here. Please check back soon. -->
 
-<table>
+<table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
   <tr>
     <!-- <td colspan="2"><b>Session 1:</b></td> -->
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
