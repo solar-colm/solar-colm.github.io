@@ -14,7 +14,7 @@ footerinfo: The website modified from larel-workshop.github.io
   # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Organisers: "organisers"
+  Committees: "organisers"
   Speakers & Panelists: "speakers"
   Program: "program"
   Submission Guide: "call"
