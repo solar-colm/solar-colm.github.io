@@ -83,201 +83,283 @@ subtitle:
   </div>
 </div>
 
-
 <h1 style="text-align:center; margin-bottom:20pt; !important"> Program Committee </h1>
-<div class="container">
-  <div class="col-sm">
-    <!-- Name 1 -->
-    Arna Woemmel<br>
-    SungJoo Byun<br>
-    David Lindner<br>
-    Candace Ross<br>
-    Dongyoung Go<br>
-    Chunhui Zhang<br>
-    Guozheng Ma<br>
-    Samuel Marks<br>
-    Neel Guha<br>
-    Kevin Robinson<br>
-    Samuel E Kwok<br>
-    Hao Yu<br>
-    Jan-Philipp Fränken<br>
-    Ruiqi Zhong<br>
-    Robert Praas<br>
-    Roy Siegelmann<br>
-    Rudolf Laine<br>
-    Cindy Wu<br>
-    Akbir Khan<br>
-    Dongbin Na<br>
-    David Rein<br>
-    K. Wei<br>
-    Yuanshun Yao<br>
-    Anand Siththaranjan<br>
-    Aaron David Tucker<br>
-    Dallas Card<br>
-    Lauro Langosco<br>
-    Yawen Zhang<br>
-    Kaivalya Hariharan<br>
-    Apoorva Nitsure<br>
-    Takeshi Onishi<br>
-    Yuchen Zhang<br>
-    Cristina Menghini<br>
-    Ole Kristian Jorgensen<br>
-    Jane Pan<br>
-    Shreya Amin<br>
-    Noah Yamamoto Siegel<br>
-    Veronica Chatrath<br>
-    Benjamin Bucknall<br>
-    Max Bartolo<br>
-    Zechen Zhang<br>
-    Abigail Goldsteen<br>
-    Muhammad Ali<br>
-    Eric Mitchell<br>
-    Jane Dwivedi-Yu<br>
-    Baihe Huang<br>
-  </div>
-  <div class="col-sm">
-    <!-- Name 2 -->
-    Shang Ma<br>
-    Aleksandar Petrov<br>
-    Jerome Francis<br>
-    Muhammad Adil Asif<br>
-    Gaurav Sett<br>
-    Bang An<br>
-    Robert Wu<br>
-    Aileen Nielsen<br>
-    Kunal Handa<br>
-    Haoyu Wang<br>
-    Zekun Wu<br>
-    Ian Fan<br>
-    Su Fong<br>
-    Toby D Pilditch<br>
-    Alan Chan<br>
-    Khaoula Chehbouni<br>
-    Anisa Halimi<br>
-    Jinmeng Rao<br>
-    Jie Huang<br>
-    Aman Dalmia<br>
-    Kaitlyn Zhou<br>
-    Oliver Rausch<br>
-    Swami Sankaranarayanan<br>
-    Andrew J Smart<br>
-    Wendi Cui<br>
-    Adit Magotra<br>
-    Euan Ong<br>
-    Hugo Laurence Fry<br>
-    Nikhil Kandpal<br>
-    Carol Chen<br>
-    Alexis Roger<br>
-    Carson Ezell<br>
-    Augustin Kelava<br>
-    Nevan Wichers<br>
-    Brooklyn Sheppard<br>
-    Oliver Jaffe<br>
-    Maximilian Kaufmann<br>
-    Lisa Soder<br>
-    Nandi Schoots<br>
-    Chaoqi Wang<br>
-    Can Rager<br>
-    Ricardo Dominguez-Olmedo<br>
-    Jude Fernandes<br>
-    Zachary Yang<br>
-    David Olubukola Akanji<br>
-    Javier Rando<br>
-  </div>
-  <div class="col-sm">
-    <!-- Name 3 -->
-    Abdelrahman Zayed<br>
-    Aengus Lynch<br>
-    Saghar Hosseini<br>
-    Karina Nguyen<br>
-    Hannah Chen<br>
-    Francis Rhys Ward<br>
-    Alex Holness-Tofts<br>
-    Jacob Pfau<br>
-    Chenghao Yang<br>
-    Marius Hobbhahn<br>
-    Esin DURMUS<br>
-    Tom Sühr<br>
-    Samuel F. Brown<br>
-    Simon Frieder<br>
-    Zhongyu Ouyang<br>
-    Everett Thornton Smith<br>
-    Da Yu<br>
-    Julia Kruk<br>
-    Jeffrey George Wang<br>
-    Mansi Phute<br>
-    Bruno Kacper Mlodozeniec<br>
-    Yibo Wang<br>
-    Aida Mostafazadeh Davani<br>
-    Matthias Samwald<br>
-    Ayyub Ibrahim<br>
-    Jerry Huang<br>
-    Messi H.J. Lee<br>
-    Aidan O'Gara<br>
-    Thomas P Zollo<br>
-    Anthony Cohn<br>
-    Edem Wornyo<br>
-    Mark Diaz<br>
-    Philip Moreira Tomei<br>
-    Tony Tong Wang<br>
-    Tanya Akumu<br>
-    Lawrence Chan<br>
-    Joshua Z Tan<br>
-    Reem Masoud<br>
-    Erin MacMurray van Liemt<br>
-    Sen Zhang<br>
-    Adriana Alvarado Garcia<br>
-    Adam X. Yang<br>
-    Xiaoyuan Guo<br>
-    Diji Yang<br>
-    Canyu Chen<br>
-    Julian Michael<br>
-  </div>
-  <div class="col-sm">
-    <!-- Name 4 -->
-    Shaina Raza<br>
-    Tomasz Korbak<br>
-    Ben Hutchinson<br>
-    Ninareh Mehrabi<br>
-    Jose Hernandez-Orallo<br>
-    Gabriel Recchia<br>
-    Nino Scherrer<br>
-    Xiaoqing Tan<br>
-    Louis Martin<br>
-    Dmitrii Krasheninnikov<br>
-    Chulin Xie<br>
-    Frieda Rong<br>
-    Stewart Slocum<br>
-    D. B. Emerson<br>
-    Serah sessi Akojenu<br>
-    Herbie Bradley<br>
-    Xiangjue Dong<br>
-    Meera Desai<br>
-    Jacob-Junqi Tian<br>
-    Daniel Paleka<br>
-    Shifu Hou<br>
-    Nora Belrose<br>
-    Wanqiao Xu<br>
-    Zhiqiu Jiang<br>
-    Sidhika Balachandar<br>
-    Toyib Ogunremi<br>
-    Emanuele La Malfa<br>
-    Nikola Konstantinov<br>
-    David Reber<br>
-    Alexander D. Goldie<br>
-    Zheng Xin Yong<br>
-    Mrinank Sharma<br>
-    Andrew Michael Bean<br>
-    Jiaying Lu<br>
-    Hannah Rose Kirk<br>
-    Joe Benton<br>
-    Jiaxin Zhang<br>
-    Jiayi Wang<br>
-    Dylan Hadfield-Menell<br>
-    Xinyu Yang<br>
-    Ekdeep Singh Lubana<br>
-    Bilal Chughtai<br>
-    Cassidy Laidlaw<br>
-    Lennart Heim<br>
-  </div>
-</div>
+<table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
+    <tr>
+        <td>Arna Woemmel</td>
+        <td>Shang Ma</td>
+        <td>Abdelrahman Zayed</td>
+        <td>Shaina Raza</td>
+    </tr>
+    <tr>
+        <td>SungJoo Byun</td>
+        <td>Aleksandar Petrov</td>
+        <td>Aengus Lynch</td>
+        <td>Tomasz Korbak</td>
+    </tr>
+    <tr>
+        <td>David Lindner</td>
+        <td>Jerome Francis</td>
+        <td>Saghar Hosseini</td>
+        <td>Ben Hutchinson</td>
+    </tr>
+    <!-- Continue adding rows in the same format as above -->
+    <tr>
+        <td>Candace Ross</td>
+        <td>Muhammad Adil Asif</td>
+        <td>Karina Nguyen</td>
+        <td>Ninareh Mehrabi</td>
+    </tr>
+    <tr>
+        <td>Dongyoung Go</td>
+        <td>Gaurav Sett</td>
+        <td>Hannah Chen</td>
+        <td>Jose Hernandez-Orallo</td>
+    </tr>
+    <tr>
+        <td>Chunhui Zhang</td>
+        <td>Bang An</td>
+        <td>Francis Rhys Ward</td>
+        <td>Gabriel Recchia</td>
+    </tr>
+    <tr>
+        <td>Guozheng Ma</td>
+        <td>Robert Wu</td>
+        <td>Alex Holness-Tofts</td>
+        <td>Nino Scherrer</td>
+    </tr>
+    <tr>
+        <td>Samuel Marks</td>
+        <td>Aileen Nielsen</td>
+        <td>Jacob Pfau</td>
+        <td>Xiaoqing Tan</td>
+    </tr>
+    <tr>
+        <td>Neel Guha</td>
+        <td>Kunal Handa</td>
+        <td>Chenghao Yang</td>
+        <td>Louis Martin</td>
+    </tr>
+    <tr>
+        <td>Kevin Robinson</td>
+        <td>Haoyu Wang</td>
+        <td>Marius Hobbhahn</td>
+        <td>Dmitrii Krasheninnikov</td>
+    </tr>
+    <tr>
+        <td>Samuel E Kwok</td>
+        <td>Zekun Wu</td>
+        <td>Esin DURMUS</td>
+        <td>Chulin Xie</td>
+    </tr>
+    <tr>
+        <td>Hao Yu</td>
+        <td>Ian Fan</td>
+        <td>Tom Sühr</td>
+        <td>Frieda Rong</td>
+    </tr>
+    <tr>
+        <td>Jan-Philipp Fränken</td>
+        <td>Su Fong</td>
+        <td>Samuel F. Brown</td>
+        <td>Stewart Slocum</td>
+    </tr>
+    <tr>
+        <td>Ruiqi Zhong</td>
+        <td>Toby D Pilditch</td>
+        <td>Simon Frieder</td>
+        <td>D. B. Emerson</td>
+    </tr>
+    <tr>
+        <td>Robert Praas</td>
+        <td>Alan Chan</td>
+        <td>Zhongyu Ouyang</td>
+        <td>Serah sessi Akojenu</td>
+    </tr>
+    <tr>
+        <td>Roy Siegelmann</td>
+        <td>Khaoula Chehbouni</td>
+        <td>Everett Thornton Smith</td>
+        <td>Herbie Bradley</td>
+    </tr>
+    <tr>
+        <td>Rudolf Laine</td>
+        <td>Anisa Halimi</td>
+        <td>Da Yu</td>
+        <td>Xiangjue Dong</td>
+    </tr>
+    <tr>
+        <td>Cindy Wu</td>
+        <td>Jinmeng Rao</td>
+        <td>Julia Kruk</td>
+        <td>Meera Desai</td>
+    </tr>
+    <tr>
+        <td>Akbir Khan</td>
+        <td>Jie Huang</td>
+        <td>Jeffrey George Wang</td>
+        <td>Jacob-Junqi Tian</td>
+    </tr>
+    <tr>
+        <td>Dongbin Na</td>
+        <td>Aman Dalmia</td>
+        <td>Mansi Phute</td>
+        <td>Daniel Paleka</td>
+    </tr>
+    <tr>
+        <td>David Rein</td>
+        <td>Kaitlyn Zhou</td>
+        <td>Bruno Kacper Mlodozeniec</td>
+        <td>Shifu Hou</td>
+    </tr>
+    <tr>
+        <td>K. Wei</td>
+        <td>Oliver Rausch</td>
+        <td>Yibo Wang</td>
+        <td>Nora Belrose</td>
+    </tr>
+    <tr>
+        <td>Yuanshun Yao</td>
+        <td>Swami Sankaranarayanan</td>
+        <td>Aida Mostafazadeh Davani</td>
+        <td>Wanqiao Xu</td>
+    </tr>
+    <tr>
+        <td>Anand Siththaranjan</td>
+        <td>Andrew J Smart</td>
+        <td>Matthias Samwald</td>
+        <td>Zhiqiu Jiang</td>
+    </tr>
+    <tr>
+        <td>Aaron David Tucker</td>
+        <td>Wendi Cui</td>
+        <td>Ayyub Ibrahim</td>
+        <td>Sidhika Balachandar</td>
+    </tr>
+    <tr>
+        <td>Dallas Card</td>
+        <td>Adit Magotra</td>
+        <td>Jerry Huang</td>
+        <td>Toyib Ogunremi</td>
+    </tr>
+    <tr>
+        <td>Lauro Langosco</td>
+        <td>Euan Ong</td>
+        <td>Messi H.J. Lee</td>
+        <td>Emanuele La Malfa</td>
+    </tr>
+    <tr>
+        <td>Yawen Zhang</td>
+        <td>Hugo Laurence Fry</td>
+        <td>Aidan O'Gara</td>
+        <td>Nikola Konstantinov</td>
+    </tr>
+    <tr>
+        <td>Kaivalya Hariharan</td>
+        <td>Nikhil Kandpal</td>
+        <td>Thomas P Zollo</td>
+        <td>David Reber</td>
+    </tr>
+    <tr>
+        <td>Apoorva Nitsure</td>
+        <td>Carol Chen</td>
+        <td>Anthony Cohn</td>
+        <td>Alexander D. Goldie</td>
+    </tr>
+    <tr>
+        <td>Takeshi Onishi</td>
+        <td>Alexis Roger</td>
+        <td>Edem Wornyo</td>
+        <td>Zheng Xin Yong</td>
+    </tr>
+    <tr>
+        <td>Yuchen Zhang</td>
+        <td>Carson Ezell</td>
+        <td>Mark Diaz</td>
+        <td>Mrinank Sharma</td>
+    </tr>
+    <tr>
+        <td>Cristina Menghini</td>
+        <td>Augustin Kelava</td>
+        <td>Philip Moreira Tomei</td>
+        <td>Andrew Michael Bean</td>
+    </tr>
+    <tr>
+        <td>Ole Kristian Jorgensen</td>
+        <td>Nevan Wichers</td>
+        <td>Tony Tong Wang</td>
+        <td>Jiaying Lu</td>
+    </tr>
+    <tr>
+        <td>Jane Pan</td>
+        <td>Brooklyn Sheppard</td>
+        <td>Tanya Akumu</td>
+        <td>Hannah Rose Kirk</td>
+    </tr>
+    <tr>
+        <td>Shreya Amin</td>
+        <td>Oliver Jaffe</td>
+        <td>Lawrence Chan</td>
+        <td>Joe Benton</td>
+    </tr>
+    <tr>
+        <td>Noah Yamamoto Siegel</td>
+        <td>Maximilian Kaufmann</td>
+        <td>Joshua Z Tan</td>
+        <td>Jiaxin Zhang</td>
+    </tr>
+    <tr>
+        <td>Veronica Chatrath</td>
+        <td>Lisa Soder</td>
+        <td>Reem Masoud</td>
+        <td>Jiayi Wang</td>
+    </tr>
+    <tr>
+        <td>Benjamin Bucknall</td>
+        <td>Nandi Schoots</td>
+        <td>Erin MacMurray van Liemt</td>
+        <td>Dylan Hadfield-Menell</td>
+    </tr>
+    <tr>
+        <td>Max Bartolo</td>
+        <td>Chaoqi Wang</td>
+        <td>Sen Zhang</td>
+        <td>Xinyu Yang</td>
+    </tr>
+    <tr>
+        <td>Zechen Zhang</td>
+        <td>Can Rager</td>
+        <td>Adriana Alvarado Garcia</td>
+        <td>Ekdeep Singh Lubana</td>
+    </tr>
+    <tr>
+        <td>Abigail Goldsteen</td>
+        <td>Ricardo Dominguez-Olmedo</td>
+        <td>Adam X. Yang</td>
+        <td>Bilal Chughtai</td>
+    </tr>
+    <tr>
+        <td>Muhammad Ali</td>
+        <td>Jude Fernandes</td>
+        <td>Xiaoyuan Guo</td>
+        <td>Cassidy Laidlaw</td>
+    </tr>
+    <tr>
+        <td>Eric Mitchell</td>
+        <td>Zachary Yang</td>
+        <td>Diji Yang</td>
+        <td>Lennart Heim</td>
+    </tr>
+    <tr>
+        <td>Jane Dwivedi-Yu</td>
+        <td>David Olubukola Akanji</td>
+        <td>Canyu Chen</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Baihe Huang</td>
+        <td>Javier Rando</td>
+        <td>Julian Michael</td>
+        <td></td>
+    </tr>
+</table>
