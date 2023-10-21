@@ -16,6 +16,10 @@ subtitle:
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
   </tr>
   <tr>
+    <td>8:20 am</td>
+    <td><b>Opening Remarks</b> (10 min)</td>
+  </tr>
+  <tr>
     <td>8:30 am</td>
     <td><b>Invited talk 1</b> (40 min) <!-- Diyi Yang --></td>
   </tr>
@@ -45,7 +49,7 @@ subtitle:
   </tr>
   <tr style='color:darkgray;'>
     <td>12:10 pm</td>
-    <td>Lunch (1h20m)</td>
+    <td>Lunch (1h20min)</td>
   </tr>
   
   <tr>
@@ -77,7 +81,7 @@ subtitle:
   </tr>
   <tr>
     <td>4:00 pm</td>
-    <td>Poster Session (1h30m) <!-- No Specific Speakers Mentioned --></td>
+    <td>Poster Session (1h30min) <!-- No Specific Speakers Mentioned --></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
