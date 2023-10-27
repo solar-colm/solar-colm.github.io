@@ -79,7 +79,7 @@ subtitle:
   </div>
 </div>
 
-<div class='row'>
+<!-- <div class='row'>
   <div class="col-3">
     <div class="frame">
       <img class="speaker-img" src='/assets/img/rumman.jpg'>
@@ -88,6 +88,21 @@ subtitle:
   <div class="col-9">
     <h4><a href="http://www.rummanchowdhury.com/">Rumman Chowdhury</a></h4>
     <p class='speaker-affiliation'>Chief Scientist at Parity Consulting, Ex-Director of META Team at Twitter</p>
+    <p style='font-size: 11pt;'>
+      <b>Speaker</b>
+    </p>
+  </div>
+</div> -->
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/sanjeev.png'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4><a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></h4>
+    <p class='speaker-affiliation'>Professor of Computer Science, Princeton University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
