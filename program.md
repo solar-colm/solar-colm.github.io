@@ -21,15 +21,15 @@ subtitle:
   </tr>
   <tr>
     <td>8:30 am</td>
-    <td><b>Invited talk 1</b> (40 min) <!-- Diyi Yang --></td>
+    <td><b>Invited talk 1 - Diyi Yang</b> (40 min) <!-- Diyi Yang --></td>
   </tr>
   <tr>
     <td>9:10 am</td>
-    <td>Best Paper Talk 1 (10 min) <!-- No Speaker Mentioned --></td>
+    <td>Best Paper Talk - Low Resources Languages Jailbreak GPT-4 (10 min) <!-- No Speaker Mentioned --></td>
   </tr>
   <tr>
     <td>9:20 am</td>
-    <td><b>Invited talk 2</b> (40 min) <!-- : Deb Raji --></td>
+    <td><b>Invited talk 2 - Inioluwa Deborah Raji</b> (40 min) <!-- : Deb Raji --></td>
   </tr>
   <tr style='color:darkgray;'>
     <td>10:00 am</td>
@@ -45,11 +45,11 @@ subtitle:
   </tr>
   <tr>
     <td>11:30 am</td>
-    <td><b>Invited talk 3</b> (40 min) <!-- : Anton Korinek --></td>
+    <td><b>Invited talk 3 - Anton Korinek</b> (40 min) </td>
   </tr>
   <tr style='color:darkgray;'>
     <td>12:10 pm</td>
-    <td>Lunch (1h20min)</td>
+    <td>Lunch break (1h 20min)</td>
   </tr>
   
   <tr>
@@ -57,31 +57,34 @@ subtitle:
   </tr>
   <tr>
     <td>1:30 pm</td>
-    <td><b>Invited talk 4</b> (40 min) <!-- : Yejin Choi --></td>
+    <td>Poster Session (1h 30min) <!-- No Specific Speakers Mentioned --></td>
   </tr>
   <tr>
-    <td>2:10 pm</td>
-    <td>Best Paper Talk 2 (10 min) <!-- No Speaker Mentioned --></td>
-  </tr>
-  <tr>
-    <td>2:20 pm</td>
-    <td><b>Invited talk 5</b> (40 min) <!-- : Owain Evans --></td>
+    <td>3:00 pm</td>
+    <td><b>Invited talk 4 - Yejin Choi</b> (40 min)</td>
   </tr>
   <tr style='color:darkgray;'>
-    <td>3:00 pm</td>
+    <td>3:40 pm</td>
     <td>Break (20 min)</td>
   </tr>
-  
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 4</b></td>
   </tr>
   <tr>
-    <td>3:20 pm</td>
-    <td><b>Invited talk 6</b> (40 min) <!-- : Rumman Ch. --></td>
+    <td>4:00 pm</td>
+    <td>Oral 1 - Social Contract AI: Aligning AI Assistants with Implicit Group Norms (5 min) <!-- No Speaker Mentioned --></td>
   </tr>
   <tr>
-    <td>4:00 pm</td>
-    <td>Poster Session (1h30min) <!-- No Specific Speakers Mentioned --></td>
+    <td>4:05 pm</td>
+    <td>Oral 2 - Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset (5 min) <!-- No Speaker Mentioned --></td>
+  </tr>
+  <tr>
+    <td>4:10 pm</td>
+    <td><b>Invited talk 5 - Owain Evans</b> (40 min) <!-- : Owain Evans --></td>
+  </tr>
+  <tr>
+    <td>4:50 pm</td>
+    <td><b>Invited talk 6 - Sanjeev Arora</b> (40 min) <!-- : Rumman Ch. --></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
