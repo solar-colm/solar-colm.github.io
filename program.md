@@ -70,21 +70,21 @@ subtitle:
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 4</b></td>
   </tr>
+   <td>4:00 pm</td>
+    <td><b>Invited talk 5 - Sanjeev Arora</b> (40 min) <!-- : Owain Evans --></td>
+  </tr>
   <tr>
-    <td>4:00 pm</td>
+    <td>4:40 pm</td>
     <td>Oral 1 - Social Contract AI: Aligning AI Assistants with Implicit Group Norms (5 min) <!-- No Speaker Mentioned --></td>
   </tr>
   <tr>
-    <td>4:05 pm</td>
+    <td>4:45 pm</td>
     <td>Oral 2 - Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset (5 min) <!-- No Speaker Mentioned --></td>
   </tr>
   <tr>
-    <td>4:10 pm</td>
-    <td><b>Invited talk 5 - Owain Evans</b> (40 min) <!-- : Owain Evans --></td>
-  </tr>
-  <tr>
+   <tr>
     <td>4:50 pm</td>
-    <td><b>Invited talk 6 - Sanjeev Arora</b> (40 min) <!-- : Rumman Ch. --></td>
+    <td><b>Invited talk 6 - Owain Evans</b> (40 min) <!-- : Rumman Ch. --></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
