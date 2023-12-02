@@ -21,7 +21,7 @@ subtitle:
   </tr>
   <tr>
     <td>8:30 am</td>
-    <td><b>Invited talk - Diyi Yang on LLM As A Cultural Interlocutor? Rethinking Socially Aware NLP in Practice</b> (40 min) <!-- Diyi Yang --></td>
+    <td>Invited talk - <b>Diyi Yang</b> on LLM As A Cultural Interlocutor? Rethinking Socially Aware NLP in Practice (40 min) <!-- Diyi Yang --></td>
   </tr>
   <tr>
     <td>9:10 am</td>
@@ -29,7 +29,7 @@ subtitle:
   </tr>
   <tr>
     <td>9:20 am</td>
-    <td><b>Invited talk 2 - Inioluwa Deborah Raji on Grounded Evaluations for Assessing Real-World Harms</b> (40 min) <!-- : Deb Raji --></td>
+    <td>Invited talk 2 - <b>Inioluwa Deborah Raji</b> on Grounded Evaluations for Assessing Real-World Harms (40 min) <!-- : Deb Raji --></td>
   </tr>
   <tr style='color:darkgray;'>
     <td>10:00 am</td>
@@ -41,11 +41,11 @@ subtitle:
   </tr>
   <tr>
     <td>10:30 am</td>
-    <td>Panel (1h) <!-- No Specific Speakers Mentioned --></td>
+    <td>Panel Discussion with <b>Roger Grosse, David Bau, Stella Biderman, Vinodkumar Prabhakaran</b> moderated by <b> Sara Hooker </b>(1h) <!-- No Specific Speakers Mentioned --></td>
   </tr>
   <tr>
     <td>11:30 am</td>
-    <td><b>Invited talk 3 - Anton Korinek on Economic Disruption and Alignment of LLMs</b> (40 min) </td>
+    <td>Invited talk 3 - <b>Anton Korinek</b> on Economic Disruption and Alignment of LLMs (40 min) </td>
   </tr>
   <tr style='color:darkgray;'>
     <td>12:10 pm</td>
@@ -61,7 +61,7 @@ subtitle:
   </tr>
   <tr>
     <td>3:00 pm</td>
-    <td><b>Invited talk 4 - Yejin Choi on Can LLMs Keep a Secret and Serve Pluralistic Values? On Privacy and Moral Implications of LLMs</b> (40 min)</td>
+    <td>Invited talk 4 - <b>Yejin Choi</b> on Can LLMs Keep a Secret and Serve Pluralistic Values? On Privacy and Moral Implications of LLMs (40 min)</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>3:40 pm</td>
@@ -71,7 +71,7 @@ subtitle:
     <td colspan="2" style="text-align: center;"><b>Session 4</b></td>
   </tr>
    <td>4:00 pm</td>
-    <td><b>Invited talk 5 - Sanjeev Arora on Emergence of complex behaviors and skills in LLMs: Theory and experiments</b> (40 min) <!-- : Owain Evans --></td>
+    <td>Invited talk 5 - <b>Sanjeev Arora</b> on Emergence of complex behaviors and skills in LLMs: Theory and experiments (40 min) <!-- : Owain Evans --></td>
   </tr>
   <tr>
     <td>4:40 pm</td>
@@ -84,7 +84,7 @@ subtitle:
   <tr>
    <tr>
     <td>4:50 pm</td>
-    <td><b>Invited talk 6 - Owain Evans on TBD</b> (40 min) <!-- : Rumman Ch. --></td>
+    <td>Invited talk 6 - <b>Owain Evans</b> on TBD> (40 min) <!-- : Rumman Ch. --></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
