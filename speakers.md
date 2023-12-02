@@ -116,7 +116,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://baulab.info/">Sara Hooker</a></h4>
+    <h4><a href="https://www.sarahooker.me/">Sara Hooker</a></h4>
     <p class='speaker-affiliation'>Director Cohere for AI</p>
     <p style='font-size: 11pt;'>
       <b>Panel Moderator</b>
@@ -131,7 +131,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://baulab.info/">Roger Grosse</a></h4>
+    <h4><a href="https://www.cs.toronto.edu/~rgrosse/">Roger Grosse</a></h4>
     <p class='speaker-affiliation'>Associate Professor of Computer Science, University of Toronto</p>
     <p style='font-size: 11pt;'>
       <b>Panelist</b>
@@ -155,21 +155,6 @@ subtitle:
   </div>
 </div>
 
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-      <img class="speaker-img" src='/assets/img/david_bau.jpg'>
-    </div>
-  </div>
-  <div class="col-9">
-    <h4><a href="https://baulab.info/">David Bau</a></h4>
-    <p class='speaker-affiliation'>Assistant Professor of Computer Science, Northeastern University</p>
-    <p style='font-size: 11pt;'>
-      <b>Panelist</b>
-    </p>
-  </div>
-</div>
 
 <div class='row'>
   <div class="col-3">
