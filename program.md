@@ -4,9 +4,6 @@ title: Program
 subtitle: 
 ---
 
-<!-- <div class='program-table' style='font-size: 10pt; width:100%;'> -->
-<!-- <div class='program-table' style='font-size: 10pt; width:80%; margin-left: auto; margin-right: auto;'> -->
-
 
 <!-- Program when finalized will appear here. Please check back soon. -->
 
@@ -84,7 +81,7 @@ subtitle:
   <tr>
    <tr>
     <td>4:50 pm</td>
-    <td>Invited talk 6 - <b>Owain Evans</b> on TBD> (40 min) <!-- : Rumman Ch. --></td>
+    <td>Invited talk 6 - <b>Owain Evans</b> on TBD (40 min) <!-- : Rumman Ch. --></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
