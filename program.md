@@ -67,7 +67,8 @@ subtitle:
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 4</b></td>
   </tr>
-   <td>4:00 pm</td>
+  <tr>
+    <td>4:00 pm</td>
     <td>Invited talk 5 - <b>Sanjeev Arora</b> on Emergence of complex behaviors and skills in LLMs: Theory and experiments (40 min) <!-- : Owain Evans --></td>
   </tr>
   <tr>
@@ -79,7 +80,6 @@ subtitle:
     <td>Oral 2 - Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset (5 min) <!-- No Speaker Mentioned --></td>
   </tr>
   <tr>
-   <tr>
     <td>4:50 pm</td>
     <td>Invited talk 6 - <b>Owain Evans</b> on TBD (40 min) <!-- : Rumman Ch. --></td>
   </tr>
