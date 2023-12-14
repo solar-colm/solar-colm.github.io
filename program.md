@@ -81,7 +81,7 @@ subtitle:
   </tr>
   <tr>
     <td>4:50 pm</td>
-    <td>Invited talk 6 - <b>Owain Evans</b> on TBD (40 min) <!-- : Rumman Ch. --></td>
+    <td>Invited talk 6 - <b>Owain Evans</b> on Can LLMs reason without Chain-of-Thought? (40 min) <!-- : Rumman Ch. --></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
