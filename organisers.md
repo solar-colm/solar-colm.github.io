@@ -14,10 +14,6 @@ subtitle:
       <img class="organiser-img" src='/assets/img/alan.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.achan.ca/">Alan Chan</a> <br> <p class='speaker-affiliation'> Mila, University of Montréal</p></div>
     </div>
-    <!-- <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/kayo.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://kayoyin.github.io">Kayo Yin</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
-    </div> -->
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/liwei.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://liweijiang.me">Liwei Jiang</a> <br> <p class='speaker-affiliation'> University of Washington</p></div>
@@ -38,18 +34,15 @@ subtitle:
     </div>
   </div>
 	<div class="row">
-			        <div class="col-sm">
-      <img src=''>
-    </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/valentina.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Valentina Pyatkin</a> <br> <p class='speaker-affiliation'> AI2 and University of Washington</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/abulhair.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p></div>
-	        <div class="col-sm">
-      <img src=''>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p><div class="col-sm">
+      <img class="organiser-img" src='/assets/img/kayo.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://kayoyin.github.io">Kayo Yin</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
     </div>
     </div>
   </div>
