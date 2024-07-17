@@ -41,9 +41,10 @@ subtitle:
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/abulhair.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p><div class="col-sm">
+	          </div>
+    <div class="col-sm">
       <img class="organiser-img" src='/assets/img/kayo.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://kayoyin.github.io">Kayo Yin</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
-    </div>
     </div>
   </div>
 </div>
