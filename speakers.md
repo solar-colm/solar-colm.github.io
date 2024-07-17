@@ -7,7 +7,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/been.png'>
+      <img class="speaker-img" src='/assets/img/been.jpg'>
     </div>
   </div>
   <div class="col-9">
@@ -97,7 +97,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/yoshua.jpeg'>
+      <img class="speaker-img" src='/assets/img/bengio.jpeg'>
     </div>
   </div>
   <div class="col-9">
