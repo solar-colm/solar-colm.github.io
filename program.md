@@ -4,9 +4,6 @@ title: Program (tentative)
 subtitle: 
 ---
 
-
-<!-- Program when finalized will appear here. Please check back soon. -->
-
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
@@ -54,7 +51,6 @@ subtitle:
     <tr style='color:darkgray;'>
     <td>3:00 pm</td>
     <td>Break (20 min)</td>
-  </tr>
   </tr>
     <tr>
     <td>3:15 pm</td>
