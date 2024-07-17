@@ -38,6 +38,9 @@ subtitle:
     </div>
   </div>
 	<div class="row">
+			        <div class="col-sm">
+      <img src=''>
+    </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/valentina.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Valentina Pyatkin</a> <br> <p class='speaker-affiliation'> AI2 and University of Washington</p></div>
