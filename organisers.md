@@ -59,11 +59,11 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/yejin.jpg'>
+      <img class="organiser-img" src='/assets/img/yejin.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://homes.cs.washington.edu/~yejin/"> Yejin Choi</a> <br> <p class='speaker-affiliation'> University of Washington, AI2</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/jakob.png'>
+      <img class="organiser-img" src='/assets/img/maarten.jpg'>
       <div class="organiser-name" style="text-align: center;"> <a href="http://maartensap.com">Maarten Sap</a> <br> <p class='speaker-affiliation'> Carnegie Mellon University</p></div>
     </div>
   </div>
