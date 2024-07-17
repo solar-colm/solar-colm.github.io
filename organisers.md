@@ -33,14 +33,14 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.xccyn.com">Xin Cynthia Chen</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
     </div>
   </div>
-	<div class="row">
+<div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/valentina.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Valentina Pyatkin</a> <br> <p class='speaker-affiliation'> AI2 and University of Washington</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/abulhair.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p><div class="col-sm">
+      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p></div>
 	          </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/kayo.jpeg'>
