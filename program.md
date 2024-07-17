@@ -9,7 +9,6 @@ subtitle:
 
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
   <tr>
-    <!-- <td colspan="2"><b>Session 1:</b></td> -->
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
   </tr>
   <tr>
@@ -28,18 +27,6 @@ subtitle:
     <td>10:40 am</td>
     <td>Opinion Abstract Talk 2</td>
   </tr>
- <!--  <tr style='color:darkgray;'>
-    <td>10:00 am</td>
-    <td>Break (30 min)</td>
-  </tr> -->
-  
-  <!-- <tr>
-    <td colspan="2" style="text-align: center;"><b>Session 2</b></td>
-  </tr>
-  <tr>
-    <td>10:30 am</td>
-    <td>Panel Discussion with <b>Roger Grosse, David Bau, Stella Biderman, Vinodkumar Prabhakaran</b> moderated by <b> Sara Hooker </b>(1h) <!-- No Specific Speakers Mentioned --></td>
-  </tr> -->
   <tr>
     <td>11:10 am</td>
     <td> Poster session & Lunch </td>
