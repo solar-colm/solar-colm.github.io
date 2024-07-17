@@ -59,26 +59,12 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/sam.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://cims.nyu.edu/~sbowman/"> Sam Bowman</a> <br> <p class='speaker-affiliation'> Anthropic; NYU</p></div>
+      <img class="organiser-img" src='/assets/img/yejin.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://homes.cs.washington.edu/~yejin/"> Yejin Choi</a> <br> <p class='speaker-affiliation'> University of Washington, AI2</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/jakob.png'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.jakobfoerster.com/">Jakob Foerster</a> <br> <p class='speaker-affiliation'> University of Oxford</p></div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/sulin.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://sblodgett.github.io/">Su Lin Blodgett</a> <br> <p class='speaker-affiliation'> Microsoft Research Montreal</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/roberta.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://rraileanu.github.io/">Roberta Raileanu</a> <br> <p class='speaker-affiliation'> FAIR (Meta), London</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/richard.webp'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://futureoflife.org/person/richard-mallah/">Richard Mallah</a> <br> <p class='speaker-affiliation'> Future of Life Institute</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="http://maartensap.com">Maarten Sap</a> <br> <p class='speaker-affiliation'> Carnegie Mellon University</p></div>
     </div>
   </div>
 </div>
