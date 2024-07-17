@@ -15,12 +15,12 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.achan.ca/">Alan Chan</a> <br> <p class='speaker-affiliation'> Mila, University of Montréal</p></div>
     </div>
     <!-- <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/katherine.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://katelee168.github.io">Katherine Lee</a> <br> <p class='speaker-affiliation'> Google Brain, Cornell</p></div>
+      <img class="organiser-img" src='/assets/img/kayo.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://kayoyin.github.io">Kayo Yin</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
     </div> -->
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/laura.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.lauraruis.com/">Laura Ruis</a> <br> <p class='speaker-affiliation'> University College London</p></div>
+      <img class="organiser-img" src='/assets/img/liwei.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://liweijiang.me">Liwei Jiang</a> <br> <p class='speaker-affiliation'> University of Washington</p></div>
     </div>
   </div>
   <div class="row">
@@ -39,14 +39,15 @@ subtitle:
   </div>
 	<div class="row">
     <div class="col-sm">
-      <img src=''>
+      <img class="organiser-img" src='/assets/img/valentina.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Valentina Pyatkin</a> <br> <p class='speaker-affiliation'> AI2 and University of Washington</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/kawin.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://kawine.github.io/">Kawin Ethayarajh</a> <br> <p class='speaker-affiliation'> Stanford University</p></div>
-    </div>
-    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/abulhair.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p></div>
+	        <div class="col-sm">
       <img src=''>
+    </div>
     </div>
   </div>
 </div>
