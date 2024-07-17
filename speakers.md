@@ -79,7 +79,7 @@ subtitle:
   </div>
 </div>
 
-<!-- <div class='row'>
+<div class='row'>
   <div class="col-3">
     <div class="frame">
       <img class="speaker-img" src='/assets/img/margaret.jpg'>
@@ -92,7 +92,7 @@ subtitle:
       <b>Panelist</b>
     </p>
   </div>
-</div> -->
+</div> 
 
 <div class='row'>
   <div class="col-3">
