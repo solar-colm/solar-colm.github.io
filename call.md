@@ -7,8 +7,8 @@ subtitle:
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
 <div class='description' style='font-size: 11pt;'>
-   <!-- <p>Submission should be made on OpenReview (linkt TBD).</p> -->
-<a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank">OpenReview</a>
+ <p>Submission should be made on OpenReview (linkt TBD).</p>
+ <!-- <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank">OpenReview</a>-->
 <p> Submissions should be anonymised papers up to 5 pages (appendices can be added to the main PDF); excluding references. Authors are encouraged to include a "Social Impacts Statement" that highlights "potential broader impact of their work, including its ethical aspects and future societal consequences". You must format your submission using the <a href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip" target="_blank"> NeurIPS 2024 LaTeX style file </a> or <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip " target="_blank"> ICLR 2025 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p> 
 
 <p>We welcome various types of papers including scientific papers, position papers, policy papers, and works in progress. Scientific papers must not have appeared at an archival venue before, however, non-scientific papers that have appeared in archival venues outside main machine learning venues are welcomed for submission.</p>
