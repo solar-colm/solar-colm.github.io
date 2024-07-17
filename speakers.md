@@ -7,12 +7,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/yejin.jpeg'>
+      <img class="speaker-img" src='/assets/img/been.png'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a></h4>
-    <p class='speaker-affiliation'>Professor of Computer Science, University of Washington</p>
+    <h4><a href="https://beenkim.github.io">Been Kim</a></h4>
+    <p class='speaker-affiliation'>Senior Staff Research Scientist at Google Deepmind</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
@@ -22,12 +22,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/anton.jpg'>
+      <img class="speaker-img" src='/assets/img/noam.jpg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://www.korinek.com/">Anton Korinek</a></h4>
-    <p class='speaker-affiliation'>Professor of Economics, University of Virginia</p>
+    <h4><a href="https://csrcl.huji.ac.il/people/noam-kolt">Noam Kolt</a></h4>
+    <p class='speaker-affiliation'>Incoming Assistant Professor at the Hebrew University Faculty of Law and School of Computer Science and Engineering</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
@@ -37,12 +37,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/diyi_yang.jpg'>
+      <img class="speaker-img" src='/assets/img/zico.jpg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a></h4>
-    <p class='speaker-affiliation'>Assistant Professor of Computer Science, Stanford University</p>
+    <h4><a href="https://zicokolter.com">Zico Kolter</a></h4>
+    <p class='speaker-affiliation'>Associate Professor, Carnegie Mellon University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
@@ -52,12 +52,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/owain.jpg'>
+      <img class="speaker-img" src='/assets/img/rida.jpeg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://owainevans.github.io/">Owain Evans</a></h4>
-    <p class='speaker-affiliation'>Research Associate, Oxford University</p>
+    <h4><a href="https://ridaqadri.net">Rida Qadri</a></h4>
+    <p class='speaker-affiliation'>Research Scientist at Google</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
@@ -67,12 +67,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/deborah.jpg'>
+      <img class="speaker-img" src='/assets/img/jana.jpeg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://en.wikipedia.org/wiki/Deborah_Raji">Inioluwa Deborah Raji</a></h4>
-    <p class='speaker-affiliation'>Fellow Mozilla Foundation & PhD Candidate in Computer Science at UC Berkeley</p>
+    <h4><a href="https://scholars.duke.edu/person/borg">Jana Schaich Borg</a></h4>
+    <p class='speaker-affiliation'>Associate Professor in the Social Science Research Institute, Duke University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
@@ -82,14 +82,14 @@ subtitle:
 <!-- <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/rumman.jpg'>
+      <img class="speaker-img" src='/assets/img/margaret.jpg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="http://www.rummanchowdhury.com/">Rumman Chowdhury</a></h4>
-    <p class='speaker-affiliation'>Chief Scientist at Parity Consulting, Ex-Director of META Team at Twitter</p>
+    <h4><a href="https://www.m-mitchell.com">Margaret Mitchell</a></h4>
+    <p class='speaker-affiliation'>Chief Ethics Scientist, Hugging Face</p>
     <p style='font-size: 11pt;'>
-      <b>Speaker</b>
+      <b>Panelist</b>
     </p>
   </div>
 </div> -->
@@ -97,94 +97,18 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/sanjeev.png'>
+      <img class="speaker-img" src='/assets/img/yoshua.jpeg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></h4>
-    <p class='speaker-affiliation'>Professor of Computer Science, Princeton University</p>
-    <p style='font-size: 11pt;'>
-      <b>Speaker</b>
-    </p>
-  </div>
-</div>
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-      <img class="speaker-img" src='/assets/img/sara.jpg'>
-    </div>
-  </div>
-  <div class="col-9">
-    <h4><a href="https://www.sarahooker.me/">Sara Hooker</a></h4>
-    <p class='speaker-affiliation'>Director Cohere for AI</p>
-    <p style='font-size: 11pt;'>
-      <b>Panel Moderator</b>
-    </p>
-  </div>
-</div>
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-      <img class="speaker-img" src='/assets/img/roger.jpg'>
-    </div>
-  </div>
-  <div class="col-9">
-    <h4><a href="https://www.cs.toronto.edu/~rgrosse/">Roger Grosse</a></h4>
-    <p class='speaker-affiliation'>Associate Professor of Computer Science, University of Toronto</p>
+    <h4><a href="https://yoshuabengio.org">Yoshua Bengio</a></h4>
+    <p class='speaker-affiliation'>Scientific Director of Mila - Quebec AI Institute</p>
     <p style='font-size: 11pt;'>
       <b>Panelist</b>
     </p>
   </div>
 </div>
 
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-      <img class="speaker-img" src='/assets/img/david_bau.jpg'>
-    </div>
-  </div>
-  <div class="col-9">
-    <h4><a href="https://baulab.info/">David Bau</a></h4>
-    <p class='speaker-affiliation'>Assistant Professor of Computer Science, Northeastern University</p>
-    <p style='font-size: 11pt;'>
-      <b>Panelist</b>
-    </p>
-  </div>
-</div>
-
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-      <img class="speaker-img" src='/assets/img/stella.jpeg'>
-    </div>
-  </div>
-  <div class="col-9">
-    <h4><a href="https://www.stellabiderman.com/">Stella Biderman</a></h4>
-    <p class='speaker-affiliation'>Lead Scientist at Booz Allen Hamilton and the Executive Director of EleutherAI</p>
-    <p style='font-size: 11pt;'>
-      <b>Panelist</b>
-    </p>
-  </div>
-</div>
-
-<div class='row'>
-  <div class="col-3">
-    <div class="frame">
-      <img class="speaker-img" src='/assets/img/vinodkumar.jpeg'>
-    </div>
-  </div>
-  <div class="col-9">
-    <h4><a href="https://cs.stanford.edu/~vinod/">Vinodkumar Prabhakaran</a></h4>
-    <p class='speaker-affiliation'>Senior Research Scientist at Google Deepmind</p>
-    <p style='font-size: 11pt;'>
-      <b>Panelist</b>
-    </p>
-  </div>
-</div>
 
 <!-- <table>
   <tr>
