@@ -87,7 +87,6 @@ subtitle:
         <td>Zekun Wu</td>
         <td>Chaoqi Wang</td>
     </tr>
-    <!-- Continue adding rows in the same format as above -->
     <tr>
         <td>Reem Ibrahim Masoud</td>
         <td>Adam X. Yang</td>
