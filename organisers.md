@@ -67,7 +67,7 @@ subtitle:
   </div>
 </div>
 
-<h1 style="text-align:center; margin-bottom:20pt; !important"> Program Committee </h1>
+   <!-- <h1 style="text-align:center; margin-bottom:20pt; !important"> Program Committee </h1>
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
     <tr>
         <td>Tomek Korbak</td>
@@ -212,4 +212,4 @@ subtitle:
         <td>Kyle A. Kilian</td>
         <td>Ben Bucknall</td>
     </tr>
-</table>
+</table>  -->
