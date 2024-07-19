@@ -29,7 +29,7 @@ subtitle:
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> September 30, 2024, AoE</td>
+		<td> October 14, 2024, AoE</td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
@@ -49,9 +49,6 @@ subtitle:
 <h3 style='margin-bottom: 10pt;'>FAQ</h3>
 <p>Q: Can we submit a paper that will also be submitted to ICLR 2025?</p>
 <p>A: Yes</p>
-
-<p>Q: Can we submit a paper that was accepted at NeurIPS 2024?</p>
-<p>A: No. NeurIPS prohibits main conference publication from appearing concurrently at the workshops.</p>
 
 <p>Q: Will the reviews be made available to authors?</p>
 <p>A: Yes.</p>
