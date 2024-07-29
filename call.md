@@ -159,5 +159,30 @@ In Proceedings of the 2019 Conference of the North American Chapter of the Assoc
 Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Pa-
 pers), pages 2970–3005, Minneapolis, Minnesota, June 2019
 <br>
+[17] Towards A Rigorous Science of Interpretable Machine Learning,
+Mar. 2017. URL http://arxiv.org/abs/1702.08608. 
+<br>
+[18] GPTs are GPTs: An Early Look at the
+Labor Market Impact Potential of Large Language Models, Aug. 2023. arXiv: 2303.10130 
+<br>
+[19] Artificial intelligence, values, and alignment. Minds and machines, 30(3):411–437,
+2020. Publisher: Springer.
+<br>
+[20] he ethics of advanced AI assistants. arXiv preprint
+arXiv:2404.16244, 2024.
+<br>
+[21] Predictability and Surprise in Large Generative Models. In 2022 ACM Conference on
+Fairness, Accountability, and Transparency, FAccT ’22, pages 1747–1764, New York, NY,
+USA, June 2022. Association for Computing Machinery.
+<br>
+[22] Datasheets for datasets. Communications of the ACM, 64(12):86–92, Dec. 2021.
+<br>
+[23] The false promise of risk assessments. In Proceedings of the 2020 Conference on
+Fairness, Accountability, and Transparency. ACM, Jan. 2020. 
+<br>
+[24] Algorithmic Risk Assessments Can Alter Human Decision-Making
+Processes in High-Stakes Government Contexts. Proceedings of the ACM on Human-Computer
+Interaction, 5(CSCW2):418:1–418:33, Oct. 2021.
+<br>
 </div>
 
