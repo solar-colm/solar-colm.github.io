@@ -120,69 +120,44 @@ will be published.</p>
 <br>
 [5] MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition. In EMNLP 2022.
 <br>
-[6] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Apr. 2022. URL http://arxiv.org/abs/2204.05862. arXiv:2204.05862.
+[6] Managing Emerging Risks to Public Safety, Sept. 2023. URL http://arxiv.org/abs/2307.03718.
 <br>
-[7] Fine-tuning language models to find agreement among humans with diverse preferences. In NeurIPS 2022.
+[7] Foundational challenges in assuring alignment and safety of large
+language models. arXiv preprint arXiv:2404.09932, 2024.
 <br>
-[8] Can Language Models Be Too Big? In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, FAccT 2021.
+[8] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human
+Feedback, Apr. 2022. URL http://arxiv.org/abs/2204.05862. arXiv:2204.05862 [cs]
 <br>
-[9] Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets. In roceedings of the 59th Annual Meeting of the Association for Computational Linguistic, August 2021.
+[9] Fine-tuning language models to find agreement among humans with diverse preferences. In A. H. Oh,
+A. Agarwal, D. Belgrave, and K. Cho, editors, Advances in Neural Information Processing
+Systems, 2022.
 <br>
-[10] What Does it Mean for a Language Model to Preserve Privacy? In 2022 ACM Conference on Fairness, Accountability, and Transparency. ACM, June 2022.
+[10] On the Dangers of Stochastic
+Parrots: Can Language Models Be Too Big? In Proceedings of the 2021 ACM Conference on
+Fairness, Accountability, and Transparency, FAccT ’21.
 <br>
-[11] Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings. In 2019 NAACL, June 2019.
+[11] Ai auditing: The broken bus
+on the road to ai accountability. arXiv preprint arXiv:2401.14462, 2024
 <br>
-[12] Towards A Rigorous Science of Interpretable Machine Learning, Mar. 2017. URL http://arxiv.org/abs/1702.08608.
+[12] Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets. In Proceedings of the 59th
+Annual Meeting of the Association for Computational Linguistics and the 11th International
+Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 1004–1015,
+Online, Aug. 2021.
 <br>
-[13] Predictability and Surprise in Large Generative Models. In 2022 ACM Conference on Fairness, Accountability, and Transparency, FAccT ’22, June 2022.
+[13] What Does it Mean for a
+Language Model to Preserve Privacy? In 2022 ACM Conference on Fairness, Accountability,
+and Transparency. ACM, June 2022. 
 <br>
-[14] Datasheets for datasets. Communications of the ACM, 64(12):86–92, Dec. 2021. 
+[14] Are aligned neural networks adversarially aligned? Advances in
+Neural Information Processing Systems, 36, 2023.
 <br>
-[15] Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection, May 2023. URL http://arxiv.org/abs/2302.12173. arXiv:2302.12173.
+[15] Black-box access is insufficient for rigorous ai audits. arXiv
+preprint arXiv:2401.14446, 2024.
 <br>
-[16] Automatically Auditing Large Language Models via Discrete Optimization, Mar. 2023. URL http://arxiv.org/abs/2303.04381. arXiv:2303.04381.
+[16] Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings.
+In Proceedings of the 2019 Conference of the North American Chapter of the Association for
+Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Pa-
+pers), pages 2970–3005, Minneapolis, Minnesota, June 2019
 <br>
-[17] Deduplicating Training Data Mitigates Privacy Risks in Language Models. In ICML 2022.
-<br>
-[18] ChatGPT for good? On opportunities and challenges of large language models for education. Learning and Individual Differences, 103:102274, Apr. 2023. URL https://www.sciencedirect.com/science/
-article/pii/S1041608023000195.
-<br>
-[19] Alignment of Language Agents, Mar. 2021. URL http://arxiv.org/abs/2103.14659. arXiv:2103.14659.
-<br>
-[20] S. Lin, J. Hilton, and O. Evans. TruthfulQA: Measuring How Models Mimic Human Falsehoods. In ACL 2022.
-<br>
-[21] Challenges of language technolo-gies for the indigenous languages of the Americas. In ACL 2018.
-<br>
-[22] Model Cards for Model Reporting. In FAacT 2019.
-<br>
-[23] In-context Learning and Induction Heads. Transformer Circuits Thread, 2022.
-<br>
-[24] Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023. URL http://arxiv.org/abs/2304.03279. arXiv:2304.03279.
-<br>
-[25]iscovering Language Model Behaviors with Model-Written Evaluations, Dec. 2022. URL http://arxiv.org/abs/2212.09251. arXiv:2212.09251.
-<br>
-[26] The Coloniality of Data Work in Latin America. In AIES 2021.
-<br>
-[27] Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead. Nature Machine Intelligence, 1(5):206–215, May 2019.
-<br>
-[28] Structured access: an emerging paradigm for safe AI deployment, Apr. 2022. URL http://arxiv.org/abs/2201.05159. arXiv:2201.05159.
-<br>
-[29] The Offense-Defense Balance of Scientific Knowledge: Does Publishing AI Research Reduce Misuse? In AIES ’20Feb. 2020. 
-<br>
-[30] Beyond Fair Pay: Ethical Implications of NLP Crowdsourcing. In NAACL 2021.
-<br>
-[31] Defining and Characterizing Reward Hacking. In NeurIPS, 2022.
-<br>
-[32] The Gradient of Generative AI Release: Methods and Considerations, Feb. 2023. URL http://arxiv.org/abs/2302.04844. arXiv:2302.04844.
-<br>
-[33] On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? In FAccT 2021.
-i<br>
-[34] Taxonomy of Risks posed by Language Models. In FAccT 2022.
-<br>
-[35] Sociotechnical Harms: Scoping a Taxonomy for Harm Reduction, Oct. 2022. URL http://arxiv.org/abs/2210.05791.
-<br>
-[36] Predictability and Surprise in Large Generative Models. In FAccT 2022.
-<br>
-[37] Emergent Abilities of Large Language Models. In TMLR 2022.
 </div>
 
