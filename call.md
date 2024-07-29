@@ -184,5 +184,47 @@ Fairness, Accountability, and Transparency. ACM, Jan. 2020.
 Processes in High-Stakes Government Contexts. Proceedings of the ACM on Human-Computer
 Interaction, 5(CSCW2):418:1–418:33, Oct. 2021.
 <br>
+[25] Predictability and Surprise in Large Generative Models. In 2022 ACM Conference on
+Fairness, Accountability, and Transparency, FAccT ’22, pages 1747–1764, New York, NY,
+USA, June 2022.
+<br>
+[26] Datasheets for datasets. Communications of the ACM, 64(12):86–92, Dec. 2021
+<br>
+[27] The false promise of risk assessments. In Proceedings of the 2020 Conference on
+Fairness, Accountability, and Transparency. ACM, Jan. 2020. 
+<br>
+[28] Algorithmic Risk Assessments Can Alter Human Decision-Making
+Processes in High-Stakes Government Contexts. Proceedings of the ACM on Human-Computer
+Interaction, 5(CSCW2):418:1–418:33, Oct. 202
+<br>
+[29] Not what you’ve
+signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt
+Injection, May 2023.
+<br>
+[30] ias runs deep: Implicit reasoning biases in persona-assigned llms. arXiv preprint
+arXiv:2311.04892, 2023.
+<br>
+[31] A Real-World
+WebAgent with Planning, Long Context Understanding, and Program Synthesis, Feb. 2024.
+URL http://arxiv.org/abs/2307.12856. arXiv:2307.12856 [cs]
+<br>
+[32] The Future of AI Governance, Apr. 2023.
+URL http://arxiv.org/abs/2304.04914
+<br>
+[33] Uncovering bias in large
+vision-language models with counterfactuals. arXiv preprint arXiv:2404.00166, 2024
+<br>
+[34] Automatically Auditing Large
+Language Models via Discrete Optimization, Mar. 2023. URL http://arxiv.org/abs/2303.
+04381.
+<br>
+[35] Deduplicating Training Data Mitigates Privacy Risks
+in Language Models. In Proceedings of the 39th International Conference on Machine Learning, pages 10697–10707. PMLR, June 2022.
+<br>
+[36] ChatGPT for good? On opportunities and challenges of large language mod-
+els for education. Learning and Individual Differences, 103:102274, Apr. 2023.
+<br>
+[37] Alignment of Language Agents, Mar. 2021. URL http://arxiv.org/abs/2103.14659.
+<br>
 </div>
 
