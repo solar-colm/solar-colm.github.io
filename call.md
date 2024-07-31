@@ -16,7 +16,7 @@ ment to promoting fairness, equity, accountability, transparency, and safety in 
 research.
 Given the wide-ranging impacts of LMs, our workshop will welcome a broad array of submissions.
 We briefly detail some specific topic areas and an illustrative selection of pertinent works:
-<ul>
+<p>
 <li> Security and privacy concerns of LMs [13, 30, 25, 49, 55].
 <li> Bias and exclusion in LMs [12, 2, 26, 53, 44].
 <li> Analysis of the development and deployment of LMs, including crowdwork [42, 50], deploy-
@@ -29,17 +29,16 @@ introduced in LMs [14, 28, 54].
 <li> Applications of LMs for social good, including sector-specific applications [9, 31, 16] and LMs
 for low-resource languages [4, 5, 36].
 <li> Perspectives from other domains that can inform socially responsible LM development and
-deployment [48, 1].
-</ul>
+deployment [48, 1].</p>
 <p><b>We will also have a separate track, with a separate reviewer pool, for sociotechnical
 submissions</b> from disciplines such as philosophy, law, and policy. We provide a brief illustrative
 list of works we would welcome:</p> 
-<ul>
+<p>
 <li> Studies on economic impacts of LMs, e.g., labor-market disruptions [18, 34].
 <li>Risk assessment [33, 24, 37, 23].
 <li> Regulation and governance of LMs [45, 6, 27].
 <li> Philosophical examination of concepts related to alignment, safety [19, 43, 20].
-</ul>
+</p>
 <p>Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. </p> 
 
 
