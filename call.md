@@ -31,16 +31,17 @@ for low-resource languages [4, 5, 36].
 <li> Perspectives from other domains that can inform socially responsible LM development and
 deployment [48, 1].
 </ul>
-<b>We will also have a separate track, with a separate reviewer pool, for sociotechnical
+<p><b>We will also have a separate track, with a separate reviewer pool, for sociotechnical
 submissions</b> from disciplines such as philosophy, law, and policy. We provide a brief illustrative
-list of works we would welcome:
+list of works we would welcome:</p> 
 <ul>
 <li> Studies on economic impacts of LMs, e.g., labor-market disruptions [18, 34].
 <li>Risk assessment [33, 24, 37, 23].
 <li> Regulation and governance of LMs [45, 6, 27].
 <li> Philosophical examination of concepts related to alignment, safety [19, 43, 20].
 </ul>
-Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. 
+
+<p>Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. </p> 
 
 
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
