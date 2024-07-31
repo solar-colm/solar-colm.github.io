@@ -29,8 +29,9 @@ introduced in LMs [14, 28, 54].
 <li> Applications of LMs for social good, including sector-specific applications [9, 31, 16] and LMs
 for low-resource languages [4, 5, 36].
 <li> Perspectives from other domains that can inform socially responsible LM development and
-deployment [48, 1].
+deployment [48, 1].</ul>
 </ul>
+
 <p><b>We will also have a separate track, with a separate reviewer pool, for sociotechnical
 submissions</b> from disciplines such as philosophy, law, and policy. We provide a brief illustrative
 list of works we would welcome:</p> 
