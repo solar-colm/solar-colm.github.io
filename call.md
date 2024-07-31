@@ -39,8 +39,10 @@ list of works we would welcome:
 <li>Risk assessment [33, 24, 37, 23].
 <li> Regulation and governance of LMs [45, 6, 27].
 <li> Philosophical examination of concepts related to alignment, safety [19, 43, 20].
-Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. 
 </ul>
+Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. 
+
+
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
 <div class='description' style='font-size: 11pt;'>
