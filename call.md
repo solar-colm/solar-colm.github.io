@@ -227,5 +227,68 @@ els for education. Learning and Individual Differences, 103:102274, Apr. 2023.
 <br>
 [37] Alignment of Language Agents, Mar. 2021. URL http://arxiv.org/abs/2103.14659.
 <br>
+[38] Model Cards for Model Reporting. In Proceedings of the Conference on Fairness,
+Accountability, and Transparency, pages 220–229, Jan. 2019
+<br>
+[39] In-context Learning and Induction Heads. Transformer Circuits
+Thread, 2022.
+<br>
+[40] Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards
+and Ethical Behavior in the MACHIAVELLI Benchmark, Apr. 2023.
+<br>
+[40] Discovering Language Model Behaviors with Model-Written Eval-
+uations, Dec. 2022. URL http://arxiv.org/abs/2212.09251. 
+<br>
+[41] Discovering Language Model Behaviors with Model-Written Eval-
+uations, Dec. 2022. URL http://arxiv.org/abs/2212.09251. 
+<br>
+[42] The Coloniality of Data Work in Latin America. In Proceedings of the 2021
+AAAI/ACM Conference on AI, Ethics, and Society. ACM, July 2021.  
+<br>
+[43] A human rights-based approach to
+responsible AI. arXiv preprint arXiv:2210.02667, 2022.
+<br>
+[44] Ai’s regimes of representation: A
+community-centered study of text-to-image models in south asia. In Proceedings of the 2023
+ACM Conference on Fairness, Accountability, and Transparency, pages 506–517, 2023.
+<br>
+[45] Outsider Oversight: Designing a Third Party
+Audit Ecosystem for AI Governance. In Proceedings of the 2022 AAAI/ACM Conference
+on AI, Ethics, and Society. ACM, July 2022.
+<br>
+[46] Stop explaining black box machine learning models for high stakes decisions
+and use interpretable models instead. Nature Machine Intelligence, 1(5):206–215, May 2019.
+<br>
+[47] Structured access: an emerging paradigm for safe AI deployment, Apr. 2022.
+URL http://arxiv.org/abs/2201.05159. arXiv:2201.05159 [cs].
+<br>
+[48] The Offense-Defense Balance of Scientific Knowledge: Does Pub-
+lishing AI Research Reduce Misuse? In Proceedings of the AAAI/ACM Conference on AI,
+Ethics, and Society, AIES ’20, pages 173–179, New York, NY, USA, Feb. 2020.
+<br>
+[49] Detecting
+pretraining data from large language models. arXiv preprint arXiv:2310.16789, 2023
+<br>
+[50] Beyond Fair Pay: Ethical Implications of NLP
+Crowdsourcing. In Proceedings of the 2021 Conference of the North American Chapter of
+the Association for Computational Linguistics: Human Language Technologies, pages 3758–
+3769, Online, June 2021. Association for Computational Linguistics
+<br>
+[51] Defining and Character-
+izing Reward Hacking. In A. H. Oh, A. Agarwal, D. Belgrave, and K. Cho, editors, Advances
+in Neural Information Processing Systems, 2022.
+<br>
+[52] The Gradient of Generative AI Release: Methods and Considerations, Feb. 2023.
+<br>
+[53] ” kelly is a warm person,
+joseph is a role model”: Gender biases in llm-generated reference letters. arXiv preprint
+arXiv:2310.09219, 2023
+<br>
+[54] Debiasing
+large visual language models. arXiv preprint arXiv:2403.05262, 2024
+<br>
+[55] Universal and transferable adversarial
+attacks on aligned language models. arXiv preprint arXiv:2307.15043, 2023.
+<br>
 </div>
 
