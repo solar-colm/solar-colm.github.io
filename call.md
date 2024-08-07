@@ -55,8 +55,7 @@ list of works we would welcome:</p>
 
  <p>We will shortly provide a link to submit your paper on the OpenReview portal.</p>
 <p> We have also provided an optional <a href="https://www.overleaf.com/latex/templates/socially-responsible-language-modelling-research-solar-at-neurips-2024-template/ckhxbtxyghkf" target="_blank">Overleaf template</a> for your convenience.</p>
-<p> <b>We will have two tracks</b>: 1) a technical track and 2) a sociotechnical track, with a separate
-reviewer pool, for submissions from disciplines such as philosophy, law, or policy.</p>
+<p> <b>We will have two tracks</b>: 1) a technical track and 2) a sociotechnical track, with a separate reviewer pool, for submissions from disciplines such as philosophy, law, or policy. The technical track is primarily meant for quantitative contributions, such as machine-learning experiments, algorithmic contributions, or mathematical theory. The sociotechnical track is primarily meant to cover a wide range of contributions concerning the societal impacts of LMs, such as qualitative analyses, policy proposals, and conceptual work. As a rough analogy, if you would consider your paper to be appropriate at FAccT or AIES, then it is also appropriate for the sociotechnical track. We also welcome position papers in either track.</p>
 
 <p> The maximum length is 5 pages, excluding references.
 We welcome various types of papers including scientific papers, position papers, policy papers,
