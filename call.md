@@ -97,6 +97,9 @@ will be published.</p>
 
 
 <h3 style='margin-bottom: 10pt;'>FAQ</h3>
+<p>Q: Can we submit a paper that will also be submitted to NeurIPS 2024?</p>
+<p>A: Yes</p>
+
 <p>Q: Can we submit a paper that will also be submitted to ICLR 2025?</p>
 <p>A: Yes</p>
 
