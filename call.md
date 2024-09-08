@@ -75,7 +75,7 @@ will be published.</p>
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> September 11, 2024, AoE</td>
+		<td> September 14, 2024, AoE</td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
