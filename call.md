@@ -87,7 +87,7 @@ will be published.</p>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
-        <td> December 14 or 15, 2024 </td>
+        <td> December 14, 2024 </td>
 	</tr>
 </table>
 
