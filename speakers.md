@@ -22,12 +22,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/noam.jpg'>
+      <img class="speaker-img" src='/assets/img/peter.jpg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://csrcl.huji.ac.il/people/noam-kolt">Noam Kolt</a></h4>
-    <p class='speaker-affiliation'>Incoming Assistant Professor at the Hebrew University Faculty of Law and School of Computer Science and Engineering</p>
+    <h4><a href="https://www.peterhenderson.co/">Noam Kolt</a></h4>
+    <p class='speaker-affiliation'>Assistant Professor at Princeton University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
