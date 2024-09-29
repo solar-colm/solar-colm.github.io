@@ -26,7 +26,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://www.peterhenderson.co/">Noam Kolt</a></h4>
+    <h4><a href="https://www.peterhenderson.co/">Peter Henderson</a></h4>
     <p class='speaker-affiliation'>Assistant Professor at Princeton University</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
