@@ -83,7 +83,7 @@ will be published.</p>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
-        <td> TBD </td>
+        <td> December 1, 2024, AoE </td>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
