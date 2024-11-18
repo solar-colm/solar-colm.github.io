@@ -67,12 +67,12 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/jana.jpeg'>
+      <img class="speaker-img" src='/assets/img/hanna_kirk.jpg'>
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://scholars.duke.edu/person/borg">Jana Schaich Borg</a></h4>
-    <p class='speaker-affiliation'>Associate Professor in the Social Science Research Institute, Duke University</p>
+    <h4><a href="https://www.hannahrosekirk.com">Hannah Rose Kirk</a></h4>
+    <p class='speaker-affiliation'>Research Scientist at the UK AI Safety Institute</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
