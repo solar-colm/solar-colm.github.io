@@ -67,7 +67,7 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/hanna_kirk.jpg'>
+      <img class="speaker-img" src='/assets/img/hannah_kirk.jpg'>
     </div>
   </div>
   <div class="col-9">
