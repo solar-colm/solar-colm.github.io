@@ -9,28 +9,32 @@ subtitle:
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
   </tr>
   <tr>
+    <td>9:15 am</td>
+    <td><b>Opening Remarks</b> (5 min)</td>
+  </tr>
+  <tr>
     <td>9:20 am</td>
-    <td><b>Opening Remarks</b> (10 min)</td>
+    <td>Invited talk - <b>Been Kim</b> TBD</td>
   </tr>
   <tr>
-    <td>9:30 am</td>
-    <td>Invited talk - <b>Jana Schaich Borg</b> TBD</td>
-  </tr>
-  <tr>
-    <td>10:10 am</td>
-    <td>Opinion Abstract Talk 1</td>
+    <td>10:00 am</td>
+    <td>Invited talk - <b>Zico Kolter</b> TBD</td>
   </tr>
   <tr>
     <td>10:40 am</td>
-    <td>Opinion Abstract Talk 2</td>
+    <td>Contributing Talk 1</td>
   </tr>
   <tr>
-    <td>11:10 am</td>
+    <td>10:50 am</td>
+    <td>Contributing Talk 2</td>
+  </tr>
+  <tr>
+    <td>11:00 am</td>
     <td> Poster session & Lunch </td>
   </tr>
   <tr style='color:darkgray;'>
-    <td>12:30 pm</td>
-    <td>Lunch break (30min)</td>
+    <td>12:00 pm</td>
+    <td>Lunch break</td>
   </tr>
   
   <tr>
@@ -38,34 +42,42 @@ subtitle:
   </tr>
   <tr>
     <td>1:00 pm</td>
-    <td>Invited talk 2 - <b>Zico Kolter</b> TBD</td>
+    <td>Invited talk 3 - <b>Rida Qadri</b> TBD</td>
   </tr>
   <tr>
     <td>1:40 pm</td>
-    <td>Invited talk 3 - <b>Noam Kolt</b> TBD</td>
+    <td>Invited talk 4 - <b>Peter Henderson</b> TBD</td>
   </tr>
     <tr>
     <td>2:20 pm</td>
-    <td>Invited talk 4 - <b>Been Kim</b> TBD </td>
+    <td>Invited talk 5 - <b>Hannah Rose Kirk</b> TBD </td>
   </tr>
     <tr style='color:darkgray;'>
     <td>3:00 pm</td>
     <td>Break (20 min)</td>
   </tr>
-    <tr>
-    <td>3:15 pm</td>
-    <td>Invited talk 5 - <b>Rida Qadri</b> TBD </td>
-  </tr>
   <tr>
-    <td>3:55 pm</td>
+    <td>3:20 pm</td>
     <td>Panel</td>
   </tr>
   <tr>
-    <td>5:00 pm</td>
-    <td>Breakout rooms discussion</td>
+    <td>4:20 pm</td>
+    <td>Contributing Talk 3</td>
   </tr>
   <tr>
-    <td>5:20 pm</td>
+    <td>4:30 pm</td>
+    <td>Contributing Talk 4</td>
+  </tr>
+  <tr>
+    <td>4:40 pm</td>
+    <td>Contributing Talk 5</td>
+  </tr>
+  <tr>
+    <td>4:50 pm</td>
+    <td>Contributing Talk 6</td>
+  </tr>
+  <tr>
+    <td>5:00 pm</td>
     <td>Closing remarks (10 min)</td>
   </tr>
 </table>
