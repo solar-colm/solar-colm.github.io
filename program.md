@@ -3,7 +3,7 @@ layout: page
 title: Program
 subtitle: 
 ---
-[List of accepted papers:](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight)
+[List of accepted papers](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight)
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
