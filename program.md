@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-subtitle: <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight">List of Accepted Papers</a>
+subtitle: "[List of Accepted Papers](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight)"
 ---
 
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
