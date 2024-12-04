@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Program
-subtitle: >
-  [List of Accepted Papers](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight)
+subtitle: List of Accepted Papers
+link: https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight
 ---
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
   <tr>
