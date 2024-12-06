@@ -60,7 +60,7 @@ subtitle:
   </tr>
   <tr>
     <td>3:20 pm</td>
-    <td>Panel</td>
+    <td>Panel: <b>Panelists</b>: Yoshua Bengio, Margaret Mitchell, Jeff Clune, <b>Moderator</b>: Jakob Foerster</td>
   </tr>
   <tr>
     <td>4:20 pm</td>
