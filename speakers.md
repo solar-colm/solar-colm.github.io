@@ -109,6 +109,35 @@ subtitle:
   </div>
 </div>
 
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/jeff.jpg'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4><a href="http://jeffclune.com">Jeff Clune</a></h4>
+    <p class='speaker-affiliation'>Professor at University of British Columbia</p>
+    <p style='font-size: 11pt;'>
+      <b>Panelist</b>
+    </p>
+  </div>
+</div>
+
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/jakob.png'>
+    </div>
+  </div>
+  <div class="col-9">
+    <h4><a href="https://www.jakobfoerster.com">Jakob Foerster</a></h4>
+    <p class='speaker-affiliation'>Associate Professor, University of  Oxford</p>
+    <p style='font-size: 11pt;'>
+      <b>Panelist</b>
+    </p>
+  </div>
+</div>
 
 <!-- <table>
   <tr>
