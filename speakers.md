@@ -134,7 +134,7 @@ subtitle:
     <h4><a href="https://www.jakobfoerster.com">Jakob Foerster</a></h4>
     <p class='speaker-affiliation'>Associate Professor, University of  Oxford</p>
     <p style='font-size: 11pt;'>
-      <b>Panelist</b>
+      <b>Panel Moderator</b>
     </p>
   </div>
 </div>
