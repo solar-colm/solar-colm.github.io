@@ -139,7 +139,7 @@ subtitle:
   </div>
 </div>
 
-<!-- <table>
+<table>
   <tr>
     <td>Noah Goodman </td>
     <td>"How language generalizes experience and enables cumulative culture."</td>
@@ -176,7 +176,7 @@ subtitle:
     <td>(invited)</td>
   </tr>
 
-</table> -->
+</table> 
 
 
 
