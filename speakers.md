@@ -143,33 +143,5 @@ subtitle:
   </div>
 </div>
 
-<table>
-  <tr>
-    <td>Been Kim</td>
-    <td>TBD</td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>Peter Henderson</td>
-    <td>TBD</td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>Zico Kolter</td>
-    <td>TBD </td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>Rida Qadri</td>
-    <td>AI's Cultural Futures: Designing for a Culturally Rich World</td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>Hannah Rose Kirk</td>
-    <td>TBD</td>
-    <td>(Speaker)</td>
-  </tr>
-</table> 
-
 
 
