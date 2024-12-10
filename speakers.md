@@ -52,14 +52,18 @@ subtitle:
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/rida.jpeg'>
+      <img class="speaker-img" src='/assets/img/rida.jpeg' alt="Rida Qadri">
     </div>
   </div>
   <div class="col-9">
     <h4><a href="https://ridaqadri.net">Rida Qadri</a></h4>
     <p class='speaker-affiliation'>Research Scientist at Google</p>
-    <p style='font-size: 11pt;'>
+    <p class='speaker-label'>
       <b>Speaker</b>
+    </p>
+    <h5 class="talk-title">AI's Cultural Futures: Designing for a Culturally Rich World</h5>
+    <p class="talk-abstract">
+    With global diffusion of AI models, concerns about cultural erasure and Western bias are growing. In this talk, I explore how we can reimagine AI design to celebrate, not erase, the world's cultural richness. My talk focuses on three key aspects of AI design: imagination, evaluation, and interaction. First, I advocate for community-based studies to understand the diverse ways people imagine and engage with AI. By recognizing how communities appropriate and innovate with technology, we can develop more culturally appropriate uses and designs. Second, I challenge the dominance of evaluation metrics that neglect the nuances of social behavior they are seeking to evaluate. Finally, I envision AI interfaces that encourage users to question, critique, and playfully subvert the technology. This fosters a more empowered relationship, allowing users to shape AI in ways that reflect their own values and needs. This talk contributes to a vision of technology design that empowers communities to shape their own technological futures.
     </p>
   </div>
 </div>
@@ -141,41 +145,30 @@ subtitle:
 
 <table>
   <tr>
-    <td>Noah Goodman </td>
-    <td>"How language generalizes experience and enables cumulative culture."</td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>Chen Yan</td>
-    <td>"Building Multimodal Interactive Agents with Imitation and Self-Supervised Learning."</td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>Dorsa Sadigh</td>
-    <td>"Language-Informed Latent Actions." </td>
-    <td>(Speaker)</td>
-  </tr>
-  <tr>
-    <td>James McClelland</td>
-    <td>TBD</td>
-    <td>(Speaker)</td>
-  </tr>
-    <tr>
-    <td>Stephanie Tellex</td>
-    <td>TBD</td>
-    <td>(invited)</td>
-  </tr>
-  <tr>
-    <td>Igor Mordatch</td>
+    <td>Been Kim</td>
     <td>TBD</td>
     <td>(Speaker)</td>
   </tr>
   <tr>
-    <td>Andy Clark</td>
+    <td>Peter Henderson</td>
     <td>TBD</td>
-    <td>(invited)</td>
+    <td>(Speaker)</td>
   </tr>
-
+  <tr>
+    <td>Zico Kolter</td>
+    <td>TBD </td>
+    <td>(Speaker)</td>
+  </tr>
+  <tr>
+    <td>Rida Qadri</td>
+    <td>AI's Cultural Futures: Designing for a Culturally Rich World</td>
+    <td>(Speaker)</td>
+  </tr>
+  <tr>
+    <td>Hannah Rose Kirk</td>
+    <td>TBD</td>
+    <td>(Speaker)</td>
+  </tr>
 </table> 
 
 
