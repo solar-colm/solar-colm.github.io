@@ -44,7 +44,7 @@ subtitle:
   </tr>
   <tr>
     <td>1:00 pm</td>
-    <td>Invited talk 3 - <b>Rida Qadri</b> TBD</td>
+    <td>Invited talk 3 - <b>Rida Qadri</b> AI's Cultural Futures: Designing for a Culturally Rich World</td>
   </tr>
   <tr>
     <td>1:40 pm</td>
