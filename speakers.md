@@ -80,6 +80,7 @@ subtitle:
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
+       <h5 class="talk-title">Researching Societal Impacts at the UK AI Safety Institute</h5>
   </div>
 </div>
 
