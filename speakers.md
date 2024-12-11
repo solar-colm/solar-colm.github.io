@@ -16,6 +16,7 @@ subtitle:
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
+       <h5 class="talk-title">Towards Interpretability for Humanity.</h5>
   </div>
 </div>
 
