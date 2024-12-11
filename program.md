@@ -16,7 +16,7 @@ subtitle:
   </tr>
   <tr>
     <td>9:20 am</td>
-    <td>Invited talk - <b>Been Kim</b> TBD</td>
+    <td>Invited talk - <b>Been Kim</b> Towards Interpretability for Humanity.</td>
   </tr>
   <tr>
     <td>10:00 am</td>
@@ -52,7 +52,7 @@ subtitle:
   </tr>
     <tr>
     <td>2:20 pm</td>
-    <td>Invited talk 5 - <b>Hannah Rose Kirk</b> TBD </td>
+    <td>Invited talk 5 - <b>Hannah Rose Kirk</b> Researching Societal Impacts at the UK AI Safety Institute. </td>
   </tr>
     <tr style='color:darkgray;'>
     <td>3:00 pm</td>
