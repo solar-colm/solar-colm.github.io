@@ -48,7 +48,7 @@ subtitle:
   </tr>
   <tr>
     <td>1:40 pm</td>
-    <td>Invited talk 4 - <b>Peter Henderson</b> TBD</td>
+    <td>Invited talk 4 - <b>Peter Henderson</b> Aligning Machine Learning and Law for Responsible Real-World Deployments</td>
   </tr>
     <tr>
     <td>2:20 pm</td>
