@@ -89,7 +89,6 @@ Abstract: Machine learning (ML) is being deployed to a vast array of real-world 
     <p class="talk-abstract">
   This talk explores how the UK AI Safety Institute's Societal Impacts team is developing empirical evidence on how frontier AI affects human behaviour and beliefs. Drawing from our sociotechnical safety framework—which examines exposure, vulnerability, and severity of AI risks—I'll present two parallel research tracks that combine population-level insights with randomised control trials. The first examines AI's role in political information seeking and belief change, while the second investigates the relationship between AI anthropomorphism, personalisation and behavioural influence. Together, these studies demonstrate build evidence on the mechanisms through which AI systems can influence their users.
     </p>
-  </div>
 </div>
 
 <div class='row'>
