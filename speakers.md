@@ -32,6 +32,11 @@ subtitle:
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
+       <h5 class="talk-title">Aligning Machine Learning and Law for Responsible Real-World Deployments</h5>
+    <p class="talk-abstract">
+Aligning Machine Learning and Law for Responsible Real-World Deployments
+Abstract: Machine learning (ML) is being deployed to a vast array of real-world applications with profound impacts on society. ML can have positive impacts, such as aiding in the discovery of new cures for diseases and improving government transparency and efficiency. But it can also be harmful: reinforcing authoritarian regimes, scaling the spread of disinformation, and exacerbating societal biases. As we rapidly move toward systemic use of ML in the real world, there are many unanswered questions about how to successfully use ML for social good while preventing its potential harms. Many of these questions inevitably require pursuing a deeper alignment between ML and law. Are certain algorithms truly compliant with current laws and regulations? Is there a better design that can make them more in tune to the regulatory and policy requirements of the real world? Are laws, policies, and regulations sufficiently informed by the technical details of ML algorithms, or will they be ineffective and out-of-sync? In this talk, I will discuss ways to bring together ML and law together to address these questions. I will draw on real-world examples throughout the talk, including unique real-world collaborations with public sector organizations. I will show how investigating questions of alignment between ML and law can advance core research in ML, as well as creating positive public good impact. It is my hope that the tools discussed in this talk will help us lead to more effective and responsible ways of deploying ML in the real world, so that we steer toward positive impacts of ML.
+    </p>
   </div>
 </div>
 
