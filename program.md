@@ -52,7 +52,7 @@ subtitle:
   </tr>
     <tr>
     <td>2:20 pm</td>
-    <td>Invited talk 5 - <b>Hannah Rose Kirk</b> Researching Societal Impacts at the UK AI Safety Institute. </td>
+    <td>Invited talk 5 - <b>Hannah Rose Kirk</b> A Tale of Two RCTs: ​ Building a rigorous evidence base on the societal impacts of frontier AI inside the UK Government. </td>
   </tr>
     <tr style='color:darkgray;'>
     <td>3:00 pm</td>
