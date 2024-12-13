@@ -85,10 +85,12 @@ Abstract: Machine learning (ML) is being deployed to a vast array of real-world 
     <p class='speaker-affiliation'>Research Scientist at the UK AI Safety Institute</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
+         </p>
     <h5 class="talk-title">A Tale of Two RCTs: ​ Building a rigorous evidence base on the societal impacts of frontier AI inside the UK Government</h5>
     <p class="talk-abstract">
   This talk explores how the UK AI Safety Institute's Societal Impacts team is developing empirical evidence on how frontier AI affects human behaviour and beliefs. Drawing from our sociotechnical safety framework—which examines exposure, vulnerability, and severity of AI risks—I'll present two parallel research tracks that combine population-level insights with randomised control trials. The first examines AI's role in political information seeking and belief change, while the second investigates the relationship between AI anthropomorphism, personalisation and behavioural influence. Together, these studies demonstrate build evidence on the mechanisms through which AI systems can influence their users.
     </p>
+   </div>
 </div>
 
 <div class='row'>
