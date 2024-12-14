@@ -52,6 +52,7 @@ Abstract: Machine learning (ML) is being deployed to a vast array of real-world 
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
+          <h5 class="talk-title">LLM Robustness: Recent progress and the challenges ahead.</h5>
   </div>
 </div>
 
