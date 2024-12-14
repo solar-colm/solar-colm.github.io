@@ -20,7 +20,7 @@ subtitle:
   </tr>
   <tr>
     <td>10:00 am</td>
-    <td>Invited talk - <b>Zico Kolter</b> TBD</td>
+    <td>Invited talk - <b>Zico Kolter</b> LLM Robustness: Recent progress and the challenges ahead.</td>
   </tr>
   <tr>
     <td>10:40 am</td>
