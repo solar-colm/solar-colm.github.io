@@ -24,11 +24,11 @@ subtitle:
   </tr>
   <tr>
     <td>10:40 am</td>
-    <td>Contributing Talk 1</td>
+    <td>Contributing Talk 1: <b>Failures to Find Transferable Image Jailbreaks Between Vision-Language Models</td>
   </tr>
   <tr>
     <td>10:50 am</td>
-    <td>Contributing Talk 2</td>
+    <td>Contributing Talk 2: <b>Towards Safe Multilingual Frontier AI</b></td>
   </tr>
   <tr>
     <td>11:00 am</td>
@@ -64,19 +64,19 @@ subtitle:
   </tr>
   <tr>
     <td>4:20 pm</td>
-    <td>Contributing Talk 3</td>
+    <td>Contributing Talk 3: <b>Report Cards: Qualitative Evaluation of LLMs Using Natural Language Summaries</b></td>
   </tr>
   <tr>
     <td>4:30 pm</td>
-    <td>Contributing Talk 4</td>
+    <td>Contributing Talk 4: <b>An Adversarial Perspective on Machine Unlearning for AI Safety</b></td>
   </tr>
   <tr>
     <td>4:40 pm</td>
-    <td>Contributing Talk 5</td>
+    <td>Contributing Talk 5: <b>Targeted Manipulation and Deception Emerge in LLMs Trained on User Feedback</b></td>
   </tr>
   <tr>
     <td>4:50 pm</td>
-    <td>Contributing Talk 6</td>
+    <td>Contributing Talk 6: <b>On Demonstration Selection for Improving Fairness in Language Models</b></td>
   </tr>
   <tr>
     <td>5:00 pm</td>
