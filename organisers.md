@@ -1,50 +1,64 @@
 ---
 layout: page
 title: Organising Committee
-subtitle: 
+subtitle:
 ---
 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/usman.png'>
-      <div class="organiser-name" style="text-align: center;"> <a href="http://www.uanwar.com">Usman Anwar</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
+      <img class="organiser-img" src='/assets/img/david.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/alan.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.achan.ca/">Alan Chan</a> <br> <p class='speaker-affiliation'> Mila, University of Montréal</p></div>
+      <img class="organiser-img" src='/assets/img/sheila.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="http://www.cs.toronto.edu/~sheila/">Sheila McIlraith</a> <br> <p class='speaker-affiliation'> University of Toronto</p></div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/maarten.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://maartensap.com/">Maarten Sap</a> <br> <p class='speaker-affiliation'> AI2 and Carnegie Mellon University</p></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/usman.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="http://www.uanwar.com/">Usman Anwar</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/liwei.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://liweijiang.me">Liwei Jiang</a> <br> <p class='speaker-affiliation'> University of Washington</p></div>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/robert.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://robertkirk.github.io/">Robert Kirk</a> <br> <p class='speaker-affiliation'>University College London</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/yawen.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://yawen-d.github.io/">Yawen Duan</a> <br> <p class='speaker-affiliation'> Concordia AI</p></div>
-    </div>
-    <div class="col-sm">
-    	<img class="organiser-img" src='/assets/img/cynthia.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.xccyn.com">Xin Cynthia Chen</a> <br> <p class='speaker-affiliation'> ETH Zurich</p></div>
-    </div>
-  </div>
-<div class="row">
-    <div class="col-sm">
+   <div class="col-sm">
       <img class="organiser-img" src='/assets/img/valentina.jpeg'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Valentina Pyatkin</a> <br> <p class='speaker-affiliation'> AI2 and University of Washington</p></div>
     </div>
+  </div>
+  <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/abulhair.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Abulhair Saparov</a> <br> <p class='speaker-affiliation'> New York University</p></div>
+      <img class="organiser-img" src='/assets/img/sharon.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Sharon Levy</a> <br> <p class='speaker-affiliation'> Rutgers University</p></div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/daniel.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://asaparov.org/">Daniel Tan</a> <br> <p class='speaker-affiliation'> University College London</p></div>
 	          </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/kayo.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://kayoyin.github.io">Kayo Yin</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
+      <img class="organiser-img" src='/assets/img/akhila.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://akhila-yerukola.github.io/">Akhila Yerukola</a> <br> <p class='speaker-affiliation'> Carnegie Mellon University</p></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/jimin.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://jiminmun.github.io/">Jimin Mun</a> <br> <p class='speaker-affiliation'> Carnegie Mellon University</p></div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/ruth.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://ruthappel.github.io/">Ruth E. Appel</a> <br> <p class='speaker-affiliation'> Stanford University</p></div>
+	          </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/sumeet.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://sumeeetmotwani.com/">Sumeet Motwani</a> <br> <p class='speaker-affiliation'> University of Oxford</p></div>
     </div>
   </div>
 </div>
@@ -66,5 +80,3 @@ subtitle:
     </div>
   </div>
 </div>
-
-
