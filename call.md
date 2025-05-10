@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Submission Guide
-subtitle: 
+subtitle:
 ---
 
 <h3 style='margin-bottom: 10pt;'>Call for Papers</h3>
 
 <div class='description' style='font-size: 11pt;'>
 
-The 2nd Socially Responsible Language Modelling Research (SoLaR) workshop at NeurIPS 2024
+The 3rd Socially Responsible Language Modelling Research (SoLaR) workshop at COLM 2025
 is soliciting papers on the socially responsible development and deployment of language models
 (and related systems such as multimodal models or LM-based agents), as well as their impacts.
 The workshop will welcome experts and practitioners from various domains, with a shared commit-
@@ -16,6 +16,7 @@ ment to promoting fairness, equity, accountability, transparency, and safety in 
 research.
 Given the wide-ranging impacts of LMs, our workshop will welcome a broad array of submissions.
 We briefly detail some specific topic areas and an illustrative selection of pertinent works:
+
 <p>
 <li> Security and privacy concerns of LMs [13, 30, 25, 49, 55].
 <li> Bias and exclusion in LMs [12, 2, 26, 53, 44].
@@ -39,19 +40,17 @@ list of works we would welcome:</p>
 <li> Regulation and governance of LMs [45, 6, 27].
 <li> Philosophical examination of concepts related to alignment, safety [19, 43, 20].
 
-<p>Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. </p> 
-
+<p>Papers from the previous iteration of SoLaR can be found <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank"> here </a>. </p>
 
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
 <div class='description' style='font-size: 11pt;'>
  <p>Submission should be made on <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR" target="_blank">OpenReview</a>.</p>
  <!-- <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/SoLaR" target="_blank">OpenReview</a>-->
-<p> Submissions should be anonymised papers up to 5 pages (appendices can be added to the main PDF); excluding references. Authors are encouraged to include a "Social Impacts Statement" that highlights "potential broader impact of their work, including its ethical aspects and future societal consequences". You must format your submission using the <a href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip" target="_blank"> NeurIPS 2024 LaTeX style file </a> or <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip " target="_blank"> ICLR 2025 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p> 
+<p> Submissions should be anonymised papers up to 5 pages (appendices can be added to the main PDF); excluding references. Authors are encouraged to include a "Social Impacts Statement" that highlights "potential broader impact of their work, including its ethical aspects and future societal consequences". You must format your submission using the <a href="https://media.neurips.cc/Conferences/NeurIPS2024/Styles.zip" target="_blank"> NeurIPS 2024 LaTeX style file </a> or <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip " target="_blank"> ICLR 2025 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p>
 
 <p>We welcome various types of papers including scientific papers, position papers, policy papers, and works in progress. Scientific papers must not have appeared at an archival venue before, however, non-scientific papers that have appeared in archival venues outside main machine learning venues are welcomed for submission.</p>
 <p>All accepted papers will be available on the workshop website, but no formal workshop proceedings will be published.</p>
-
 
  <p>We will shortly provide a link to submit your paper on the OpenReview portal.</p>
 <p> We have also provided an optional <a href="https://www.overleaf.com/latex/templates/socially-responsible-language-modelling-research-solar-at-neurips-2024-template/ckhxbtxyghkf" target="_blank">Overleaf template</a> for your convenience.</p>
@@ -67,7 +66,6 @@ All submitted papers will undergo a double-blind review process.
 All accepted papers will be available on the workshop website, but no formal workshop proceedings
 will be published.</p>
 
-
 <h3 style='margin-bottom: 10pt;'>Key Dates</h3>
 
 <div class='description' style='font-size: 11pt;align: center'>
@@ -75,19 +73,19 @@ will be published.</p>
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> September 14, 2024, AoE</td>
+		<td> July 15th, 2025, AoE</td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> October 9, 2024, AoE</td>
+		<td> August 15, 2025, AoE</td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
-        <td> December 1, 2024, AoE </td>
+        <td> September 15, 2025, AoE </td>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
-        <td> December 14, 2024 </td>
+        <td> October 10, 2025 </td>
 	</tr>
 </table>
 
@@ -95,19 +93,18 @@ will be published.</p>
 </p>
 </div>
 
-
 <h3 style='margin-bottom: 10pt;'>FAQ</h3>
-<p>Q: Can we submit a paper that will also be submitted to NeurIPS 2024?</p>
+<p>Q: Can we submit a paper that will also be submitted to COLM 2025?</p>
 <p>A: Yes</p>
 
-<p>Q: Can we submit a paper that will also be submitted to ICLR 2025?</p>
+<p>Q: Can we submit a paper that will also be submitted to NeurIPS 2025?</p>
 <p>A: Yes</p>
 
 <p>Q: Will the reviews be made available to authors?</p>
 <p>A: Yes.</p>
 
 <p>Q: I have a question not addressed here, whom should I contact?</p>
-<p>A: Email organizers at solar-neurips@googlegroups.com </p>
+<p>A: Email organizers at solar-colm@googlegroups.com </p>
 </div>
 
 <h3 style='margin-bottom: 10pt;'>References</h3>
@@ -293,4 +290,3 @@ large visual language models. arXiv preprint arXiv:2403.05262, 2024
 attacks on aligned language models. arXiv preprint arXiv:2307.15043, 2023.
 <br>
 </div>
-

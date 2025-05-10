@@ -65,10 +65,6 @@
   <meta property="og:image" content="{{ img | absolute_url }}" />
   {% endif %} {% if page.id %}
   <meta property="og:type" content="article" />
-  {% if author != "" %}
-  <meta property="og:article:author" content="{{ author }}" />
-  {% endif %} {% if page.id %}
-  <meta property="og:type" content="article" />
   <meta property="og:article:author" content="{{ site.author }}" />
   <meta
     property="og:article:published_time"
