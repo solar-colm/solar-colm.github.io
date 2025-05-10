@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Program
-subtitle: 
+subtitle:
 ---
-<div align="center">
+
+<!-- <div align="center">
 <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SoLaR#tab-accept-spotlight">List of accepted papers</a>
-</div>
+</div> -->
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
@@ -16,26 +17,27 @@ subtitle:
   </tr>
   <tr>
     <td>9:20 am</td>
-    <td>Invited talk - <b>Been Kim</b> Towards Interpretability for Humanity.</td>
+    <td>Opening Remarks</td>
   </tr>
   <tr>
-    <td>10:00 am</td>
-    <td>Invited talk - <b>Zico Kolter</b> LLM Robustness: Recent progress and the challenges ahead.</td>
+    <td>9:30 am</td>
+    <td>Invited talk - <b>Lama Ahmad</b> LLM Robustness: Recent progress and the challenges ahead.</td>
   </tr>
   <tr>
-    <td>10:40 am</td>
-    <td>Contributing Talk 1: <b>Failures to Find Transferable Image Jailbreaks Between Vision-Language Models</td>
+    <td>10:10 am</td>
+    <td>Selected Talk 1</td>
+    <!-- <td>Contributing Talk 1: <b>Failures to Find Transferable Image Jailbreaks Between Vision-Language Models</td> -->
   </tr>
   <tr>
     <td>10:50 am</td>
-    <td>Contributing Talk 2: <b>Towards Safe Multilingual Frontier AI</b></td>
+    <td>Selected Talk 2</td>
   </tr>
   <tr>
-    <td>11:00 am</td>
+    <td>11:30 am</td>
     <td> Poster session & Lunch </td>
   </tr>
   <tr style='color:darkgray;'>
-    <td>12:00 pm</td>
+    <td>12:30 pm</td>
     <td>Lunch break</td>
   </tr>
   
@@ -44,42 +46,34 @@ subtitle:
   </tr>
   <tr>
     <td>1:00 pm</td>
-    <td>Invited talk 3 - <b>Rida Qadri</b> AI's Cultural Futures: Designing for a Culturally Rich World</td>
+    <td>Invited talk 2 - <b>David Duvenaud</b> AI's Cultural Futures: Designing for a Culturally Rich World</td>
   </tr>
   <tr>
     <td>1:40 pm</td>
-    <td>Invited talk 4 - <b>Peter Henderson</b> Aligning Machine Learning and Law for Responsible Real-World Deployments</td>
+    <td>Invited talk 3 - <b>Mandy Wang</b> Aligning Machine Learning and Law for Responsible Real-World Deployments</td>
   </tr>
     <tr>
     <td>2:20 pm</td>
-    <td>Invited talk 5 - <b>Hannah Rose Kirk</b> A Tale of Two RCTs: ​ Building a rigorous evidence base on the societal impacts of frontier AI inside the UK Government. </td>
+    <td>Spotlight Paper Talk 1</td>
   </tr>
     <tr style='color:darkgray;'>
     <td>3:00 pm</td>
-    <td>Break (20 min)</td>
+    <td>Break (15 min)</td>
   </tr>
   <tr>
-    <td>3:20 pm</td>
-    <td>Panel: <b>Panelists</b>: Yoshua Bengio, Margaret Mitchell, Jeff Clune, <b>Moderator</b>: Jakob Foerster</td>
+    <td>3:15 pm</td>
+    <td>Spotlight Paper Talk 2</td>
   </tr>
   <tr>
-    <td>4:20 pm</td>
-    <td>Contributing Talk 3: <b>Report Cards: Qualitative Evaluation of LLMs Using Natural Language Summaries</b></td>
-  </tr>
-  <tr>
-    <td>4:30 pm</td>
-    <td>Contributing Talk 4: <b>An Adversarial Perspective on Machine Unlearning for AI Safety</b></td>
-  </tr>
-  <tr>
-    <td>4:40 pm</td>
-    <td>Contributing Talk 5: <b>Targeted Manipulation and Deception Emerge in LLMs Trained on User Feedback</b></td>
-  </tr>
-  <tr>
-    <td>4:50 pm</td>
-    <td>Contributing Talk 6: <b>On Demonstration Selection for Improving Fairness in Language Models</b></td>
+    <td>3:55 pm</td>
+    <td>Panel: <b>Panelists</b>: (TBD) <b>Moderator</b>: (TBD)</td>
   </tr>
   <tr>
     <td>5:00 pm</td>
+    <td>Breakout rooms discussion</td>
+  </tr>
+  <tr>
+    <td>5:20 pm</td>
     <td>Closing remarks (10 min)</td>
   </tr>
 </table>

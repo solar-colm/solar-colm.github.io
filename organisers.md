@@ -7,20 +7,6 @@ subtitle:
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/david.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/sheila.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="http://www.cs.toronto.edu/~sheila/">Sheila McIlraith</a> <br> <p class='speaker-affiliation'> University of Toronto</p></div>
-    </div>
-    <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/maarten.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://maartensap.com/">Maarten Sap</a> <br> <p class='speaker-affiliation'> AI2 and Carnegie Mellon University</p></div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
       <img class="organiser-img" src='/assets/img/usman.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="http://www.uanwar.com/">Usman Anwar</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
@@ -71,12 +57,13 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.davidscottkrueger.com/">David Krueger</a> <br> <p class='speaker-affiliation'> University of Cambridge</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/yejin.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://homes.cs.washington.edu/~yejin/"> Yejin Choi</a> <br> <p class='speaker-affiliation'> University of Washington, AI2</p></div>
+      <img class="organiser-img" src='/assets/img/sheila.jpg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="http://www.cs.toronto.edu/~sheila/">Sheila McIlraith</a> <br> <p class='speaker-affiliation'> University of Toronto</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/maarten.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="http://maartensap.com">Maarten Sap</a> <br> <p class='speaker-affiliation'> Carnegie Mellon University</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://maartensap.com/">Maarten Sap</a> <br> <p class='speaker-affiliation'> AI2 and Carnegie Mellon University</p></div>
     </div>
+  </div>
   </div>
 </div>
