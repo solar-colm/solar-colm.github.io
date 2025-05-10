@@ -12,12 +12,8 @@ subtitle:
     <td colspan="2" style="text-align: center;"><b>Session 1</b></td>
   </tr>
   <tr>
-    <td>9:15 am</td>
-    <td><b>Opening Remarks</b> (5 min)</td>
-  </tr>
-  <tr>
     <td>9:20 am</td>
-    <td>Opening Remarks</td>
+    <td><b>Opening Remarks</b></td>
   </tr>
   <tr>
     <td>9:30 am</td>
