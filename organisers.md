@@ -65,5 +65,4 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://maartensap.com/">Maarten Sap</a> <br> <p class='speaker-affiliation'> AI2 and Carnegie Mellon University</p></div>
     </div>
   </div>
-  </div>
 </div>
