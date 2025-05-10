@@ -21,7 +21,7 @@ subtitle:
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>Invited talk - <b>Lama Ahmad</b> LLM Robustness: Recent progress and the challenges ahead.</td>
+    <td>Invited talk - <b>Lama Ahmad</b> Third party assessments and assurances for deploying safer AI systems</td>
   </tr>
   <tr>
     <td>10:10 am</td>
@@ -46,11 +46,11 @@ subtitle:
   </tr>
   <tr>
     <td>1:00 pm</td>
-    <td>Invited talk 2 - <b>David Duvenaud</b> AI's Cultural Futures: Designing for a Culturally Rich World</td>
+    <td>Invited talk 2 - <b>David Duvenaud</b> What if we succeed? Lab plans and possible post-AGI futures</td>
   </tr>
   <tr>
     <td>1:40 pm</td>
-    <td>Invited talk 3 - <b>Mandy Wang</b> Aligning Machine Learning and Law for Responsible Real-World Deployments</td>
+    <td>Invited talk 3 - <b>Mandy Wang</b> LLMs and Scientific Research: Promise and Challenges</td>
   </tr>
     <tr>
     <td>2:20 pm</td>
