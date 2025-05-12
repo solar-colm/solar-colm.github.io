@@ -58,12 +58,12 @@ list of works we would welcome:</p>
 <p> The maximum length is 5 pages, excluding references.
 We welcome various types of papers including scientific papers, position papers, policy papers,
 and works in progress. Scientific papers must not have appeared at an archival venue before, <b>but
-concurrent submissions to the main NeurIPS 2025 conference are acceptable</b>. Non-
+concurrent submissions, for example to the main COLM 2025 conference, are acceptable</b>. Non-
 scientific papers that have appeared in archival venues outside main machine-learning venues are
 welcomed for submission.
 All submitted papers will undergo a double-blind review process.
 All accepted papers will be available on the workshop website, but no formal workshop proceedings
-will be published.</p>
+will be published and all papers will be non-archival.</p>
 
 <h3 style='margin-bottom: 10pt;'>Key Dates</h3>
 
@@ -72,15 +72,15 @@ will be published.</p>
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> July 15th, 2025, AoE</td>
+		<td> July 5th, 2025, AoE</td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> August 15, 2025, AoE</td>
+		<td> July 24, 2025, AoE</td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
-        <td> September 15, 2025, AoE </td>
+        <td> August 15, 2025, AoE </td>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
