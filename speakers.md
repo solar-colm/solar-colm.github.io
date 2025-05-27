@@ -28,7 +28,7 @@ subtitle:
   </div>
   <div class="col-9">
     <h4><a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a></h4>
-    <p class='speaker-affiliation'>Assistant Professor at University of Toronto</p>
+    <p class='speaker-affiliation'>Associate Professor at University of Toronto</p>
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
