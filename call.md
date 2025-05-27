@@ -45,13 +45,12 @@ list of works we would welcome:</p>
 <h3 style='margin-bottom: 10pt;'>Submission Instructions</h3>
 
 <div class='description' style='font-size: 11pt;'>
- <p>Submission should be made on <a href="https://openreview.net/group?id=COLM/2025/Workshop/SoLaR" target="_blank">OpenReview</a> (please check back for updated submission link). </p>
+ <p>Submission should be made on <a href="https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/SoLaR" target="_blank">OpenReview</a>. </p>
 <p> Submissions should be anonymised papers up to 5 pages (appendices can be added to the main PDF); excluding references. Authors are encouraged to include a "Social Impacts Statement" that highlights "potential broader impact of their work, including its ethical aspects and future societal consequences". You must format your submission using the <a href="https://github.com/COLM-org/Template/archive/refs/tags/2025.zip" target="_blank"> COLM 2025 LaTeX style file </a> or <a href="https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip" target="_blank"> NeurIPS 2025 LaTeX style file </a>. Reviews will be double-blind, with at least two reviewers assigned to each paper.</p>
 
 <p>We welcome various types of papers including scientific papers, position papers, policy papers, and works in progress. Scientific papers must not have appeared at an archival venue before, however, non-scientific papers that have appeared in archival venues outside main machine learning venues are welcomed for submission.</p>
 <p>All accepted papers will be available on the workshop website, but no formal workshop proceedings will be published.</p>
 
- <p>We will shortly provide a link to submit your paper on the OpenReview portal.</p>
 <p> We have also provided an optional <a href="https://www.overleaf.com/latex/templates/socially-responsible-language-modelling-research-solar-at-neurips-2024-template/ckhxbtxyghkf" target="_blank">Overleaf template</a> for your convenience.</p>
 <p> <b>We will have two tracks</b>: 1) a technical track and 2) a sociotechnical track, with a separate reviewer pool, for submissions from disciplines such as philosophy, law, or policy. The technical track is primarily meant for quantitative contributions, such as machine-learning experiments, algorithmic contributions, or mathematical theory. The sociotechnical track is primarily meant to cover a wide range of contributions concerning the societal impacts of LMs, such as qualitative analyses, policy proposals, and conceptual work. As a rough analogy, if you would consider your paper to be appropriate at FAccT or AIES, then it is also appropriate for the sociotechnical track. We also welcome position papers in either track.</p>
 
@@ -288,4 +287,5 @@ large visual language models. arXiv preprint arXiv:2403.05262, 2024
 [55] Universal and transferable adversarial
 attacks on aligned language models. arXiv preprint arXiv:2307.15043, 2023.
 <br>
+</p>
 </div>
