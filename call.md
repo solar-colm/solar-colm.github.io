@@ -71,15 +71,15 @@ will be published and all papers will be non-archival.</p>
 <table style='margin-bottom:10pt;margin-left:auto;margin-right:auto;'>
 	<tr>
 		<td> <b>Submission Deadline</b></td> 
-		<td> June 23, 2025, AoE</td>
+		<td> June 23, 2025, (11:59 PM GMT)</td>
 	</tr>
 	<tr>
 		<td> Acceptance Notification </td>
-		<td> July 24, 2025, AoE</td>
+		<td> July 24, 2025, (11:59 PM GMT)</td>
 	</tr>
 	<tr>
 		<td> Camera-Ready Deadline</td>
-        <td> August 15, 2025, AoE </td>
+        <td> August 15, 2025, (11:59 PM GMT) </td>
 	</tr>
 	<tr>
 		<td> Workshop Date</td>
