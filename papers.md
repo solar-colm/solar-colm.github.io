@@ -15,9 +15,9 @@ Two runner-up papers (<i class="fas fa-trophy silver"></i>) were also recognized
 </p>
 <p style='font-size:11pt;'>
 The prizes for the competition are generously provided by our sponsors DeepMind and Cohere.
-<p> -->
+<p>
 
- <!-- <h3 style='font-size:90%;'>Best Paper</h3>
+ <h3 style='font-size:90%;'>Best Paper</h3>
 
  <div class="card mb-3">
   <div class="card-header font-weight-bold">
@@ -46,7 +46,6 @@ The prizes for the competition are generously provided by our sponsors DeepMind 
 </div>
 
  <h3 style='font-size:90%;'>Runner-up</h3>
-
 
  <div class="card mb-3">
   <div class="card-header font-weight-bold">
