@@ -25,8 +25,8 @@ subtitle:
     <td>Selected Talk 1: <b>Ali Falahati</b><br />We Are Losing the War for Real Data, It is Time to Mark the Originals</td>
   </tr>
   <tr>
-    <td>10:50 am</td>
-    <td>Selected Talk 2</td>
+    <td>10:45 am</td>
+    <td>Invited Talk 2 - TBD</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>11:30 am</td>
@@ -42,7 +42,7 @@ subtitle:
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td>Invited talk 2 - <b>David Duvenaud</b><br />What if we succeed? Lab plans and possible post-AGI futures</td>
+    <td>Invited talk 3 - <b>David Duvenaud</b><br />What if we succeed? Lab plans and possible post-AGI futures</td>
   </tr>
   <tr>
     <td>3:15 pm</td>
@@ -67,8 +67,8 @@ subtitle:
   <tr>
     <td>5:00 pm</td>
     <td>Breakout rooms discussion</td>
-  </tr>
-  <tr> -->
+  </tr> -->
+  <tr>
     <td>4:45 pm</td>
     <td>Closing remarks (15 min)</td>
   </tr>

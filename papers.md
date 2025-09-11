@@ -4,101 +4,6 @@ title: Papers
 subtitle:
 ---
 
- <!-- <h3 style='margin-bottom: 10pt;'>Awards</h3>
-<hr>
-
-<p style='font-size: 11pt;'>
-We are proud to announce that the best paper award (<i class="fas fa-trophy gold"></i>) goes to "Collaborating with language models for embodied reasoning" by Ishita Dasgupat et. al. This outstanding paper receives a prize of $1000. 
-</p>
-<p style='font-size:11pt;'>
-Two runner-up papers (<i class="fas fa-trophy silver"></i>) were also recognized, receiving $500 each. These papers include "How to talk so AI will learn: instructions, descriptions, and pragmatics" by Theodore Sumers et. al. and "ScriptWorld: A Scripts-based RL Environment" by Abhinav Joshi et. al. 
-</p>
-<p style='font-size:11pt;'>
-The prizes for the competition are generously provided by our sponsors DeepMind and Cohere.
-<p>
-
- <h3 style='font-size:90%;'>Best Paper</h3>
-
- <div class="card mb-3">
-  <div class="card-header font-weight-bold">
-    <i class="fas fa-trophy gold"></i> Collaborating with language models for embodied reasoning
-  </div>
-  <div class="card-body">
-    <p class="card-text">
-    	<div class="row">
-    		<div class="col-9">
-    			<b>Authors:</b> Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus
-    		</div>
-    		<div class="col-3">
-    			<div class="right">
-    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=YoS-abmWjJc" target="_blank" role="button">Paper Link</a>
-				</div>
-    		</div>
-    	</div>
-    </p>
-      <button type="button" class="collapsible">Abstract</button>
-		<div class="content">
-	      <p style='margin-top: 5pt;'>	
-					Reasoning in a complex and ambiguous embodied environment is a key goal for Reinforcement Learning (RL) agents. While some sophisticated RL agents can successfully solve difficult tasks, they require a large amount of training data and often struggle to generalize to new unseen environments and new tasks. On the other hand, Large Scale Language Models (LSLMs) have exhibited strong reasoning ability and the ability to to adapt to new tasks through in-context learning. However, LSLMs do not inherently have the ability to interrogate or intervene on the environment. In this work, we investigate how to combine these complementary abilities in a single system consisting of three parts: a Planner, an Actor, and a Reporter. The Planner is a pre-trained language model that can issue commands to a simple embodied agent (the Actor), while the Reporter communicates with the Planner to inform its next command. We present a set of tasks that require reasoning, test this system's ability to generalize zero-shot and investigate failure cases, and demonstrate how components of this system can be trained with reinforcement-learning to improve performance.
-				</p>
-		</div>
-  </div>
-</div>
-
- <h3 style='font-size:90%;'>Runner-up</h3>
-
- <div class="card mb-3">
-  <div class="card-header font-weight-bold">
-  <i class="fas fa-trophy silver"></i>   How to talk so AI will learn: instructions, descriptions, and pragmatics
-  </div>
-  <div class="card-body">
-    <p class="card-text">
-    	<div class="row">
-    		<div class="col-9">
-    			<b>Authors:</b> Theodore Sumers, Robert D. Hawkins, Mark K Ho, Thomas L. Griffiths, Dylan Hadfield-Menell
-    		</div>
-    		<div class="col-3">
-    			<div class="right">
-    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=Wfcbb0d7UEs" target="_blank" role="button">Paper Link</a>
-				</div>
-    		</div>
-    	</div>
-    </p>
-      <button type="button" class="collapsible">Abstract</button>
-		<div class="content">
-	      <p style='margin-top: 5pt;'>	
-					Humans intuitively use language to express our beliefs and desires, but today we lack computational models explaining such abstract language use.To address this challenge, we consider social learning in a linear bandit setting and ask how a human might communicate preferences over behaviors (i.e. the reward function). We study two distinct types of language: instructions, which specify partial policies, and descriptions, which provide information about the reward function. To explain how humans use such language, we suggest they reason about both known present and unknown future states: instructions optimize for the present, while descriptions optimize for the future. We formalize this choice by extending reward design to consider a distribution over states.We then define a pragmatic listener agent that infers the speaker's reward function by reasoning about how the speaker expresses themselves. Simulations suggest that (1) descriptions afford stronger learning than instructions; and (2) maintaining uncertainty over the speaker's pedagogical intent allows for robust reward inference. We hope these insights facilitate a shift from developing agents that obey language to agents that learn from it.
-				</p>
-		</div>
-  </div>
-</div>
-
- <div class="card mb-3">
-  <div class="card-header font-weight-bold">
-   <i class="fas fa-trophy silver"></i>  ScriptWorld: A Scripts-based RL Environment 
-  </div>
-  <div class="card-body">
-    <p class="card-text">
-    	<div class="row">
-    		<div class="col-9">
-    			<b>Authors:</b> Abhinav Joshi, Areeb Ahmad, Umang Pandey, Ashutosh Modi
-    		</div>
-    		<div class="col-3">
-    			<div class="right">
-    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=yMHzGXgcQeg" target="_blank" role="button">Paper Link</a>
-				</div>
-    		</div>
-    	</div>
-    </p>
-      <button type="button" class="collapsible">Abstract</button>
-		<div class="content">
-	      <p style='margin-top: 5pt;'>	
-					Text-based games provide a framework for developing natural language understanding and commonsense knowledge about the world in reinforcement learning algorithms. Existing text-based environments often rely on fictional situations and characters to create a gaming framework and are far from real-world scenarios. In this paper, we introduce ScriptWorld: A text-based environment for teaching agents about real-world daily chores, imparting commonsense knowledge. To the best of our knowledge, it is the first interactive text-based gaming framework that considers data written by humans (scripts datasets) to create procedural games for daily real-world human activities. We provide gaming environments for 10 daily activities and perform a detailed analysis to capture the richness of the proposed environment. We also test the developed environment using human gameplay experiments and reinforcement learning algorithms as baselines. Our experiments show that the flexibility of the proposed environment makes it a suitable testbed for reinforcement learning algorithms to learn the underlying procedural knowledge in daily human chores.
-					</p>
-		</div>
-  </div>
-</div> -->
-
  <h3 style='margin-bottom: 10pt;'>Accepted Papers</h3>
 <hr>
 
@@ -746,3 +651,98 @@ The prizes for the competition are generously provided by our sponsors DeepMind 
 		</div>
   </div>
 </div>
+
+ <!-- <h3 style='margin-bottom: 10pt;'>Awards</h3>
+<hr>
+
+<p style='font-size: 11pt;'>
+We are proud to announce that the best paper award (<i class="fas fa-trophy gold"></i>) goes to "Collaborating with language models for embodied reasoning" by Ishita Dasgupat et. al. This outstanding paper receives a prize of $1000. 
+</p>
+<p style='font-size:11pt;'>
+Two runner-up papers (<i class="fas fa-trophy silver"></i>) were also recognized, receiving $500 each. These papers include "How to talk so AI will learn: instructions, descriptions, and pragmatics" by Theodore Sumers et. al. and "ScriptWorld: A Scripts-based RL Environment" by Abhinav Joshi et. al. 
+</p>
+<p style='font-size:11pt;'>
+The prizes for the competition are generously provided by our sponsors DeepMind and Cohere.
+<p>
+
+ <h3 style='font-size:90%;'>Best Paper</h3>
+
+ <div class="card mb-3">
+  <div class="card-header font-weight-bold">
+    <i class="fas fa-trophy gold"></i> Collaborating with language models for embodied reasoning
+  </div>
+  <div class="card-body">
+    <p class="card-text">
+    	<div class="row">
+    		<div class="col-9">
+    			<b>Authors:</b> Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babayan, Felix Hill, Rob Fergus
+    		</div>
+    		<div class="col-3">
+    			<div class="right">
+    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=YoS-abmWjJc" target="_blank" role="button">Paper Link</a>
+				</div>
+    		</div>
+    	</div>
+    </p>
+      <button type="button" class="collapsible">Abstract</button>
+		<div class="content">
+	      <p style='margin-top: 5pt;'>	
+					Reasoning in a complex and ambiguous embodied environment is a key goal for Reinforcement Learning (RL) agents. While some sophisticated RL agents can successfully solve difficult tasks, they require a large amount of training data and often struggle to generalize to new unseen environments and new tasks. On the other hand, Large Scale Language Models (LSLMs) have exhibited strong reasoning ability and the ability to to adapt to new tasks through in-context learning. However, LSLMs do not inherently have the ability to interrogate or intervene on the environment. In this work, we investigate how to combine these complementary abilities in a single system consisting of three parts: a Planner, an Actor, and a Reporter. The Planner is a pre-trained language model that can issue commands to a simple embodied agent (the Actor), while the Reporter communicates with the Planner to inform its next command. We present a set of tasks that require reasoning, test this system's ability to generalize zero-shot and investigate failure cases, and demonstrate how components of this system can be trained with reinforcement-learning to improve performance.
+				</p>
+		</div>
+  </div>
+</div>
+
+ <h3 style='font-size:90%;'>Runner-up</h3>
+
+ <div class="card mb-3">
+  <div class="card-header font-weight-bold">
+  <i class="fas fa-trophy silver"></i>   How to talk so AI will learn: instructions, descriptions, and pragmatics
+  </div>
+  <div class="card-body">
+    <p class="card-text">
+    	<div class="row">
+    		<div class="col-9">
+    			<b>Authors:</b> Theodore Sumers, Robert D. Hawkins, Mark K Ho, Thomas L. Griffiths, Dylan Hadfield-Menell
+    		</div>
+    		<div class="col-3">
+    			<div class="right">
+    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=Wfcbb0d7UEs" target="_blank" role="button">Paper Link</a>
+				</div>
+    		</div>
+    	</div>
+    </p>
+      <button type="button" class="collapsible">Abstract</button>
+		<div class="content">
+	      <p style='margin-top: 5pt;'>	
+					Humans intuitively use language to express our beliefs and desires, but today we lack computational models explaining such abstract language use.To address this challenge, we consider social learning in a linear bandit setting and ask how a human might communicate preferences over behaviors (i.e. the reward function). We study two distinct types of language: instructions, which specify partial policies, and descriptions, which provide information about the reward function. To explain how humans use such language, we suggest they reason about both known present and unknown future states: instructions optimize for the present, while descriptions optimize for the future. We formalize this choice by extending reward design to consider a distribution over states.We then define a pragmatic listener agent that infers the speaker's reward function by reasoning about how the speaker expresses themselves. Simulations suggest that (1) descriptions afford stronger learning than instructions; and (2) maintaining uncertainty over the speaker's pedagogical intent allows for robust reward inference. We hope these insights facilitate a shift from developing agents that obey language to agents that learn from it.
+				</p>
+		</div>
+  </div>
+</div>
+
+ <div class="card mb-3">
+  <div class="card-header font-weight-bold">
+   <i class="fas fa-trophy silver"></i>  ScriptWorld: A Scripts-based RL Environment 
+  </div>
+  <div class="card-body">
+    <p class="card-text">
+    	<div class="row">
+    		<div class="col-9">
+    			<b>Authors:</b> Abhinav Joshi, Areeb Ahmad, Umang Pandey, Ashutosh Modi
+    		</div>
+    		<div class="col-3">
+    			<div class="right">
+    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=yMHzGXgcQeg" target="_blank" role="button">Paper Link</a>
+				</div>
+    		</div>
+    	</div>
+    </p>
+      <button type="button" class="collapsible">Abstract</button>
+		<div class="content">
+	      <p style='margin-top: 5pt;'>	
+					Text-based games provide a framework for developing natural language understanding and commonsense knowledge about the world in reinforcement learning algorithms. Existing text-based environments often rely on fictional situations and characters to create a gaming framework and are far from real-world scenarios. In this paper, we introduce ScriptWorld: A text-based environment for teaching agents about real-world daily chores, imparting commonsense knowledge. To the best of our knowledge, it is the first interactive text-based gaming framework that considers data written by humans (scripts datasets) to create procedural games for daily real-world human activities. We provide gaming environments for 10 daily activities and perform a detailed analysis to capture the richness of the proposed environment. We also test the developed environment using human gameplay experiments and reinforcement learning algorithms as baselines. Our experiments show that the flexibility of the proposed environment makes it a suitable testbed for reinforcement learning algorithms to learn the underlying procedural knowledge in daily human chores.
+					</p>
+		</div>
+  </div>
+</div> -->
