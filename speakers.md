@@ -4,7 +4,7 @@ title: Speakers & Panelists
 subtitle:
 ---
 
-<div class='row'>
+<!-- <div class='row'>
   <div class="col-3">
     <div class="frame">
       <img class="speaker-img" src='/assets/img/lama.jpeg' alt='Lama Ahmad'>
@@ -18,7 +18,7 @@ subtitle:
     </p>
        <h5 class="talk-title">Third party assessments and assurances for deploying safer AI systems</h5>
   </div>
-</div>
+</div> -->
 
 <div class='row'>
   <div class="col-3">
