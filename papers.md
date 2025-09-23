@@ -279,7 +279,7 @@ subtitle:
     		</div>
     		<div class="col-3">
     			<div class="right">
-    				<a class="btn btn-primary" href="https://openreview.net/pdf?id=Wfcbb0d7UEs" target="_blank" role="button">Paper Link</a>
+    				<a class="btn btn-primary" href="https://openreview.net/attachment?id=SKCdC9JuUP&name=pdf" target="_blank" role="button">Paper Link</a>
 				</div>
     		</div>
     	</div>
