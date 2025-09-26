@@ -49,7 +49,7 @@ Location: Room 524B
   </tr>
   <tr>
     <td>3:15 pm</td>
-    <td>Selected Talk 2: <b>Suresh Venkatasubramanian</b><br />Testing LLMs in a sandbox isn’t responsible. Focusing on community use and needs is.</td>
+    <td>Selected Talk 2: <b>Michelle Ding and Jo Kavishe</b><br />Testing LLMs in a sandbox isn’t responsible. Focusing on community use and needs is.</td>
   </tr>
     <tr>
     <td>3:45 pm</td>
