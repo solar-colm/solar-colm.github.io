@@ -20,15 +20,15 @@ Location: Room 524B
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>Selected Talk 1: <b>Michelle Ding</b> and <b>Jo Kavishe</b><br />Testing LLMs in a sandbox isn’t responsible. Focusing on community use and needs is.
+    <td>Selected Talk 1:<br /><b>Michelle Ding</b> and <b>Jo Kavishe</b><br /><em>Testing LLMs in a sandbox isn’t responsible. Focusing on community use and needs is.</em></td>
   </tr>
   <tr>
     <td>10:00 am</td>
-    <td>Invited Talk 1: <b>Yulia Tsvetkov</b> (University of Washington, Associate Professor)<br />Safety and Ethics of Agentic LLMs in Health Domains</td>
+    <td>Invited Talk 1:<br /><b>Yulia Tsvetkov</b> (University of Washington, Associate Professor)<br /><em>Safety and Ethics of Agentic LLMs in Health Domains</em></td>
   </tr>
   <tr>
     <td>10:45 am</td>
-    <td>Selected Talk 2: <b>Ali Falahati</b><br />We Are Losing the War for Real Data, It is Time to Mark the Originals</td>
+    <td>Selected Talk 2:<br /><b>Ali Falahati</b><br /><em>We Are Losing the War for Real Data, It is Time to Mark the Originals</em></td>
   </tr>
   <tr style='color:darkgray;'>
     <td>11:15 am</td>
@@ -43,7 +43,7 @@ Location: Room 524B
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td>Invited Talk 2: <b>David Duvenaud</b> (University of Toronto, Associate Professor)<br />Alignment is Not Enough: Anticipating Post-AGI Power-Seeking by Institutions and States</td>
+    <td>Invited Talk 2:<br /><b>David Duvenaud</b> (University of Toronto, Associate Professor)<br /><em>Alignment is Not Enough: Anticipating Post-AGI Power-Seeking by Institutions and States</em></td>
   </tr>
   <tr>
     <td>3:15 pm</td>
@@ -51,7 +51,7 @@ Location: Room 524B
   </tr>
   <tr>
     <td>4:00 pm</td>
-    <td>Invited Talk 3: <b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
+    <td>Invited Talk 3:<br /><b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
   </tr>
   <tr>
     <td>4:45 pm</td>
