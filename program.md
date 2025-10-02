@@ -45,15 +45,15 @@ Location: Room 524B
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td>Invited talk 2: <b>David Duvenaud</b> (University of Toronto, Associate Professor)<br />Alignment is Not Enough: Anticipating Post-AGI Power-Seeking by Institutions and States</td>
+    <td>Invited Talk 2: <b>David Duvenaud</b> (University of Toronto, Associate Professor)<br />Alignment is Not Enough: Anticipating Post-AGI Power-Seeking by Institutions and States</td>
   </tr>
   <tr>
     <td>3:15 pm</td>
-    <td>Invited talk 3: <b>Dishank Bansal</b> (AISI)<br /></td>
+    <td>Sponsor Talk: <b>Dishank Bansal</b> (AISI)</td>
   </tr>
     <tr>
     <td>4:00 pm</td>
-    <td>Invited talk 4: <b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
+    <td>Invited Talk 4: <b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
   </tr>
     <!-- <tr style='color:darkgray;'>
     <td>3:00 pm</td>
