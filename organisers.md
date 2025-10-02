@@ -22,7 +22,7 @@ subtitle:
   <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/sharon.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://valentinapy.github.io">Sharon Levy</a> <br> <p class='speaker-affiliation'> Rutgers University</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://sharonlevy.github.io/">Sharon Levy</a> <br> <p class='speaker-affiliation'> Rutgers University</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/daniel.jpeg'>
