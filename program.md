@@ -20,23 +20,23 @@ Location: Room 524B
   </tr>
   <tr>
     <td>9:30 am</td>
-    <td>Invited talk 1 - <b>Mengdi Wang</b><br />LLMs and Scientific Research: Promise and Challenges</td>
+    <td>Selected Talk 1: <b>Michelle Ding</b> and <b>Jo Kavishe</b><br />Testing LLMs in a sandbox isn’t responsible. Focusing on community use and needs is.
   </tr>
   <tr>
-    <td>10:15 am</td>
+    <td>10:00 am</td>
     <!-- <td>Selected Talk 1</td> -->
-    <td>Selected Talk 1: <b>Ali Falahati</b><br />We Are Losing the War for Real Data, It is Time to Mark the Originals</td>
+    <td>Invited Talk 1: <b>Yulia Tsvetkov</b> (University of Washington, Associate Professor)<br />Safety and Ethics of Agentic LLMs in Health Domains</td>
   </tr>
   <tr>
     <td>10:45 am</td>
-    <td>Invited Talk 2 - TBD</td>
+    <td>Selected Talk 2: <b>Ali Falahati</b><br />We Are Losing the War for Real Data, It is Time to Mark the Originals</td>
   </tr>
   <tr style='color:darkgray;'>
-    <td>11:30 am</td>
+    <td>11:15 am</td>
     <td> Lunch break </td>
   </tr>
   <tr>
-    <td>1 pm</td>
+    <td>1:00 pm</td>
     <td>Poster Session</td>
   </tr>
   
@@ -45,24 +45,24 @@ Location: Room 524B
   </tr>
   <tr>
     <td>2:30 pm</td>
-    <td>Invited talk 3 - <b>David Duvenaud</b><br />What if we succeed? Lab plans and possible post-AGI futures</td>
+    <td>Invited talk 2: <b>David Duvenaud</b> (University of Toronto, Associate Professor)<br />Alignment is Not Enough: Anticipating Post-AGI Power-Seeking by Institutions and States</td>
   </tr>
   <tr>
     <td>3:15 pm</td>
-    <td>Selected Talk 2: <b>Michelle Ding</b> and <b>Jo Kavishe</b><br />Testing LLMs in a sandbox isn’t responsible. Focusing on community use and needs is.</td>
+    <td>Invited talk 3: <b>Dishank Bansal</b> (AISI)<br /></td>
   </tr>
     <tr>
-    <td>3:45 pm</td>
-    <td>Spotlight Paper Talk 1</td>
+    <td>4:00 pm</td>
+    <td>Invited talk 4: <b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
   </tr>
     <!-- <tr style='color:darkgray;'>
     <td>3:00 pm</td>
     <td>Break (15 min)</td>
   </tr> -->
-  <tr>
+  <!-- <tr>
     <td>4:15 pm</td>
     <td>Spotlight Paper Talk 2</td>
-  </tr>
+  </tr> -->
   <!-- <tr>
     <td>4:45 pm</td>
     <td>Panel: <b>Panelists</b>: (TBD) <b>Moderator</b>: (TBD)</td>

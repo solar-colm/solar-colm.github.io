@@ -19,6 +19,21 @@ subtitle:
        <h5 class="talk-title">Third party assessments and assurances for deploying safer AI systems</h5>
   </div>
 </div> -->
+<div class='row'>
+  <div class="col-3">
+    <div class="frame">
+      <img class="speaker-img" src='/assets/img/yulia.jpg' alt="Yulia Tsvetkov">
+    </div>
+  </div>
+  <div class="col-9">
+    <h4><a href="https://homes.cs.washington.edu/~yuliats/">Yulia Tsvetkov</a></h4>
+    <p class='speaker-affiliation'>Associate Professor at University of Washington</p>
+    <p class='speaker-label'>
+      <b>Speaker</b>
+    </p>
+    <h5 class="talk-title">Safety and Ethics of Agentic LLMs in Health Domains</h5>
+  </div>
+</div>
 
 <div class='row'>
   <div class="col-3">
@@ -32,22 +47,22 @@ subtitle:
     <p style='font-size: 11pt;'>
       <b>Speaker</b>
     </p>
-       <h5 class="talk-title">What if we succeed? Lab plans and possible post-AGI futures </h5>
+       <h5 class="talk-title">Alignment is Not Enough: Anticipating Post-AGI Power-Seeking by Institutions and States </h5>
   </div>
 </div>
 
 <div class='row'>
   <div class="col-3">
     <div class="frame">
-      <img class="speaker-img" src='/assets/img/mandy.jpeg' alt="Mandy Wang">
+      <img class="speaker-img" src='/assets/img/golnoosh.jpeg' alt="Golnoosh Farnadi">
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://mwang.princeton.edu/">Mandy Wang</a></h4>
-    <p class='speaker-affiliation'>Professor at Princeton University</p>
+    <h4><a href="https://mwang.princeton.edu/"></a></h4>
+    <p class='speaker-affiliation'>Assistant Professor at McGill University</p>
     <p class='speaker-label'>
       <b>Speaker</b>
     </p>
-    <h5 class="talk-title">LLMs and Scientific Research: Promise and Challenges</h5>
+    <h5 class="talk-title"></h5>
   </div>
 </div>
