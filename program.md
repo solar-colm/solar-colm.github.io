@@ -47,7 +47,7 @@ Location: Room 524B
   </tr>
   <tr>
     <td>3:15 pm</td>
-    <td>Sponsor Talk: <b>Dishank Bansal</b> (AISI)</td>
+    <td>Sponsor Talk: <b>Dishank Bansal</b> (AISI)<br /><em>Measuring Sandbagging: Could LLMs be strategically underperforming on our evals?</em></td>
   </tr>
   <tr>
     <td>4:00 pm</td>
