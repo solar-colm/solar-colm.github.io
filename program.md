@@ -24,7 +24,6 @@ Location: Room 524B
   </tr>
   <tr>
     <td>10:00 am</td>
-    <!-- <td>Selected Talk 1</td> -->
     <td>Invited Talk 1: <b>Yulia Tsvetkov</b> (University of Washington, Associate Professor)<br />Safety and Ethics of Agentic LLMs in Health Domains</td>
   </tr>
   <tr>
@@ -39,7 +38,6 @@ Location: Room 524B
     <td>1:00 pm</td>
     <td>Poster Session</td>
   </tr>
-  
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 2</b></td>
   </tr>
@@ -51,26 +49,10 @@ Location: Room 524B
     <td>3:15 pm</td>
     <td>Sponsor Talk: <b>Dishank Bansal</b> (AISI)</td>
   </tr>
-    <tr>
-    <td>4:00 pm</td>
-    <td>Invited Talk 4: <b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
-  </tr>
-    <!-- <tr style='color:darkgray;'>
-    <td>3:00 pm</td>
-    <td>Break (15 min)</td>
-  </tr> -->
-  <!-- <tr>
-    <td>4:15 pm</td>
-    <td>Spotlight Paper Talk 2</td>
-  </tr> -->
-  <!-- <tr>
-    <td>4:45 pm</td>
-    <td>Panel: <b>Panelists</b>: (TBD) <b>Moderator</b>: (TBD)</td>
-  </tr>
   <tr>
-    <td>5:00 pm</td>
-    <td>Breakout rooms discussion</td>
-  </tr> -->
+    <td>4:00 pm</td>
+    <td>Invited Talk 3: <b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
+  </tr>
   <tr>
     <td>4:45 pm</td>
     <td>Closing remarks (15 min)</td>
