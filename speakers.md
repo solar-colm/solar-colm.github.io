@@ -58,7 +58,7 @@ subtitle:
     </div>
   </div>
   <div class="col-9">
-    <h4><a href="https://mwang.princeton.edu/"></a></h4>
+    <h4><a href="https://gfarnadi.github.io/">Golnoosh Farnadi</a></h4>
     <p class='speaker-affiliation'>Assistant Professor at McGill University</p>
     <p class='speaker-label'>
       <b>Speaker</b>
