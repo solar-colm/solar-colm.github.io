@@ -30,13 +30,13 @@ Location: Room 524B
     <td>10:45 am</td>
     <td>Selected Talk 2:<br /><b>Ali Falahati</b><br /><em>We Are Losing the War for Real Data, It is Time to Mark the Originals</em></td>
   </tr>
-  <tr style='color:darkgray;'>
-    <td>11:15 am</td>
-    <td> Lunch break </td>
-  </tr>
   <tr>
-    <td>1:00 pm</td>
+    <td>11:15 am</td>
     <td>Poster Session</td>
+  </tr>
+  <tr style='color:darkgray;'>
+    <td>1:00 pm</td>
+    <td> Lunch break </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;"><b>Session 2</b></td>
@@ -51,7 +51,7 @@ Location: Room 524B
   </tr>
   <tr>
     <td>4:00 pm</td>
-    <td>Invited Talk 3:<br /><b>Golnoosh Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
+    <td>Invited Talk 3:<br /><b>Golnoosh Farnadi</b> (McGill University, Assistant Professor)<br /></td>
   </tr>
   <tr>
     <td>4:45 pm</td>
